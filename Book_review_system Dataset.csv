@@ -1,0 +1,1316 @@
+Serial_no,Date_of_Read,Author_of_book,Name_of_book,Year_Published,No_of_pages,Rating
+1,01-06-1968,"Jean-Jacques Rousseau","The Confessions",1781,606,4
+2,01-06-1968,"Erich Fromm","The Art of Loving",1956,146,5
+3,01-06-1968,"Mark Twain","The Adventures of Huckleberry Finn",1884,288,3
+4,01-07-1968,"James Thurber","My Life and Hard Times",1933,115,0
+5,01-07-1968,"William Shakespeare","Romeo and Juliet",1596,146,0
+6,01-08-1968,"John Barth","The End of the Road",1958,206,4
+7,01-09-1968,"Aldous Huxley","Brave New World",1932,199,0
+8,01-09-1968,"Fritz Peters","Boyhood with Gurdjieff",1964,174,2
+9,01-10-1968,"P.D. Ouspensky","In Search of the Miraculous",1949,389,4
+10,01-11-1968,"Russell H. Miles","Johann Sebastian Bach, an Introduction to his Life and Works",1962,164,1
+11,01-12-1968,"Hunter Davies","The Beatles",1968,340,2
+12,01-12-1968,"P.D. Ouspensky","The Strange Life of Ivan Osokin",1955,166,1
+13,01-01-1969,"René Daumal","Mount Analogue",1952,106,3
+14,01-01-1969,"Bernard Malamud","The Assistant",1957,192,5
+15,01-01-1969,"C.G. Jung","Memories, Dreams, Reflections",1961,359,3
+16,01-01-1969,"Philip Roth","Goodbye, Columbus",1959,97,3
+17,01-02-1969,"Malcolm X and Alex Haley",Autobiography,1964,460,3
+18,01-02-1969,"Jule Eisenbud, M.D.","The World of Ted Serios",1968,339,2
+19,01-02-1969,"Penelope Gilliatt","A State of Change",1967,221,0
+20,01-02-1969,"Oscar Wilde","The Picture of Dorian Gray",1891,234,2
+21,01-02-1969,"Joseph Heller","Catch 22",1961,463,3
+22,01-02-1969,Voltaire,Candide,1758,144,5
+23,01-02-1969,"F. Scott Fitzgerald","The Great Gatsby",1925,182,3
+24,01-02-1969,"L.N. Tolstoy","War and Peace",1869,1444,4
+25,01-05-1969,"Philip Roth","Portnoy's Complaint",1969,274,0
+26,01-05-1969,"George Orwell","Down and Out in Paris and London ",1933,155,1
+27,01-06-1969,"Fyodor Dostoyevsky","The Brothers Karamazov",1881,701,0
+28,01-06-1969,"Norman Podhoretz","Making It",1967,262,0
+29,01-06-1969,"Rodney Collin","The Theory of Eternal Life",1948,123,0
+30,01-06-1969,"Norman Mailer","Miami and the Siege of Chicago",1968,223,2
+31,01-07-1969,"G.I. Gurdjieff","Meetings with Remarkable Men",1927,303,1
+32,01-07-1969,"William Shakespeare",Hamlet,1602,214,2
+33,01-08-1969,"James Simon Kunen","The Strawberry Statement",1969,151,2
+34,01-09-1969,"Emily Brontë","Wuthering Heights",1847,320,1
+35,01-01-1970,"Herman Melville","Moby Dick",1851,535,4
+36,01-01-1970,"Johann Wolgang Goethe","The Sorrows of Young Werther",1774,199,5
+37,01-02-1970,"Jean-Paul Sartre",Nausea,1938,253,0
+38,01-03-1970,"Garrett Mattingly","The Armada",1959,402,3
+39,01-04-1970,"Honoré de Balzac","Eugénie Grandet",1833,248,4
+40,01-04-1970,"Bertrand Russell","The Conquest of Happiness",1930,180,3
+41,01-05-1970,"Margaret Mead","Culture and Commitment",1970,97,0
+42,01-07-1970,"Jane Austen","Sense and Sensibility",1811,349,1
+43,01-08-1970,"L.N. Tolstoy","Childhood, Boyhood, Youth",1857,319,4
+44,01-09-1970,"Norman Zierold",Garbo,1969,157,5
+45,01-10-1970,"Joan Didion","Play It as It Lays",1970,152,4
+46,01-10-1970,"Anais Nin",Diary,1934,358,2
+47,01-11-1970,"André Gide","The Counterfeiters",1927,397,0
+48,01-12-1970,"Gustave Flaubert","Sentimental Education",1869,419,2
+49,01-01-1971,"Joseph Conrad","Lord Jim",1900,313,0
+50,01-01-1971,"William Shakespeare",Othello,1602,128,2
+51,01-02-1971,"Thomas Mann",Buddenbrooks,1901,595,1
+52,01-03-1971,"Bill Moyers","Listening to America",1971,342,5
+53,01-04-1971,"Alvin Toffer","Future Shock",1970,430,5
+54,01-06-1971,"Jerzy Kosinski","Being There",1971,140,0
+55,01-07-1971,"Charlotte Brontë","Jane Eyre",1847,477,2
+56,01-08-1971,"William Shakespeare","King Lear",1605,138,5
+57,01-08-1971,"Johann Wolfgang Goethe","Elective Affinities",1809,300,3
+58,01-09-1971,"William J. Mitchell","Elementary Harmony",1965,230,0
+59,01-10-1971,"Edmund S. Morgan","The Birth of the Republic",1956,157,0
+60,01-11-1971,"Kenneth A. Lockridge","A New England Town, the First One Hundred Years",1969,180,4
+61,01-12-1971,"Mary Renault","The Charioteer",1961,347,1
+62,01-01-1972,"L.N. Tolstoy","Anna Karenina",1873,852,0
+63,01-02-1972,"Milovan Djilas","The New Class",1957,214,3
+64,01-03-1972,"Albert Schweitzer","J.S. Bach, Vol. 1",1911,428,3
+65,01-04-1972,"Alan Watts","The Wisdom of Insecurity",1951,152,4
+66,01-08-1972,"Larry McMurtry","All My Friends are Going to Be Strangers",1972,286,3
+67,01-09-1972,"Richard Bach","Jonathan Livingston Seagull",1970,93,1
+68,01-10-1972,"Thomas Wolfe","Look Homeward Angel",1929,522,5
+69,01-10-1972,"Alan Moorehead","Darwin and the Beagle",1969,270,5
+70,01-02-1973,"Charles Dickens","David Copperfield",1850,850,4
+71,01-04-1973,"Charles Dickens","American Notes",1842,320,4
+72,01-06-1973,"W.J. Cash","The Mind of the South",1941,440,2
+73,01-06-1973,"William Faulkner","The Wild Palms",1939,317,0
+74,01-07-1973,"Thomas Hardy","Tess of the D'Urbervilles",1902,517,2
+75,01-08-1973,"Irving Bieber","Homosexuality, a Psychoanalytic Survey",1955,319,1
+76,01-08-1973,"André Gide","The Immoralist",1903,171,1
+77,01-09-1973,"Dee Brown","Bury My Heart at Wounded Knee",1971,421,1
+78,01-10-1973,"Gabriel Garcia Marques","One Hundred Years of Solitude",1970,383,1
+79,01-10-1973,"Jane Austen","Pride and Prejudice",1797,430,2
+80,01-11-1973,"Sarah N. Randolph","The Domestic Life of Thomas Jefferson",1939,384,0
+81,01-11-1973,"Daniel Boorstin","The Lost World of Thomas Jefferson",1948,248,4
+82,01-12-1973,"Peter McCabe and Robert D. Schonfeld","Apple to the Core",1972,200,4
+83,01-12-1973,"E.N. da C. Andrade","Sir Isaac Newton, His Life and Work",1954,136,4
+84,01-12-1973,"John Kenneth Galbraith","Economics and the Public Purpose",1973,324,3
+85,01-12-1973,"Anne F. Scott","The Southern Lady",1970,231,2
+86,01-01-1974,"Georges Lefebvre","The Coming of the French Revolution",1947,220,4
+87,01-02-1974,"Konrad Lorenz","On Aggression",1966,290,1
+88,01-02-1974,"Bette Davis","The Lonely Life",1962,254,1
+89,01-03-1974,"Merle Miller","Plain Speaking, an Oral Biography of Harry S. Truman",1973,432,3
+90,01-03-1974,"Vladimir Nabokov","Transparent Things",1972,158,0
+91,01-04-1974,"Jane Austen",Persuasion,1818,254,3
+92,01-04-1974,"Jim Bouton","Ball Four",1970,369,5
+93,01-05-1974,"Bruce Catton","This Hallowed Ground",1956,495,3
+94,01-05-1974,"Jan Morris",Conundrum,1974,174,0
+95,01-07-1974,"Constantine Fitzgibbon","The Life of Dylan Thomas",1965,346,0
+96,01-08-1974,"Chogyam Thungpa","Cutting Through Spiritual Materialism",1973,322,4
+97,01-08-1974,"Peter Benchley",Jaws,1974,272,2
+98,01-08-1974,"Carlos Castaneda","Journey to Ixtlan",1972,315,3
+99,01-08-1974,"Chaim Potok","The Chosen",1969,416,3
+100,01-10-1974,"Sir Arthur Conan Doyle","The Adventures of Sherlock Holmes",1892,248,2
+101,01-10-1974,"Richard Hofstadter","America at 1750",1973,292,1
+102,01-11-1974,"Graham Greene","The End of the Affair",1951,240,4
+103,01-12-1974,"Clive Davis","Clive, Inside the Record Business",1974,291,2
+104,01-02-1975,"Robert A. Caro","The Power Broker",1974,1162,0
+105,01-06-1975,"Henry James","Portrait of a Lady",1881,545,5
+106,01-09-1975,"Nicholas Meyer","The Seven Per-Cent Solution",1974,234,3
+107,01-01-1976,"William M. Thackeray","Memoirs of Barry Lyndon",1854,324,1
+108,01-02-1976,"Kurt Vonnegut, Jr.","Breakfast of Champions",1973,295,2
+109,01-03-1976,"F. Scott Fitzgerald","The Last Tycoon",1941,163,3
+110,01-04-1976,"Rollo May","The Courage to Create",1975,140,2
+111,01-04-1976,"Aaron Copland","Copland on Music",1960,280,3
+112,01-07-1976,"Harold Mattingly","The Man in the Roman Street",1966,156,0
+113,01-12-1976,"Curtis Cate","George Sand",1975,732,0
+114,01-12-1976,"John S. Shelton","Geology Illustrated",1966,424,4
+115,01-12-1976,"Saul Bellow","To Jerusalem and Back",1976,182,2
+116,01-01-1977,"Saul Bellow","Humboldt's Gift",1973,472,0
+117,01-02-1977,"Robert Wm. Fogel and Stanley L. Engerman","Time On the Cross, the Economics of American Negro Slavery",1974,264,3
+118,01-02-1977,"Colin McEvedy","The Penguin Atlas of Medieval History",1961,90,1
+119,01-02-1977,"R.D. Laing","Do You Love Me?",1976,86,4
+120,01-02-1977,"C.G. Jung","The Undiscovered Self",1957,125,0
+121,01-05-1977,"C.G. Jung","Modern Man in Search of a Soul",1933,244,3
+122,01-05-1977,"Charles Chaplin","My Autobiography",1964,497,2
+123,01-05-1977,"Margaret Drabble","A Summer Bird-Cage",1963,208,4
+124,01-06-1977,"Arthur C. Clarke","Childhood's End",1953,218,1
+125,01-07-1977,"Henry James","The Europeans",1878,173,3
+126,01-09-1977,"Stephen King","The Shining",1977,447,0
+127,01-08-1977,"Henry James","The Ambassadors",1903,397,1
+128,01-06-1977,Bulfinch,Mythology,1855,236,4
+129,01-11-1977,"Gail Sheehy",Passages,1976,514,2
+130,01-12-1977,"William Shakespeare","Richard III",1595,148,4
+131,01-12-1977,"J. Hector St. John de Crevecoeur","Letters from an American Farmer",1782,225,4
+132,01-03-1978,"Norman Mailer","Genius and Lust, a Journey through the Major Writings of Henry Miller",1976,476,0
+133,01-04-1978,"Charles Darwin","The Origin of Species",1859,460,5
+134,01-04-1978,"Robert M. Pirsig","Zen and the Art of Motorcycle Maintenance",1974,406,1
+135,01-05-1978,"Erik Erikson","Childhood and Society",1950,424,0
+136,01-05-1978,"Marcel Proust","Swann's Way",1928,325,2
+137,01-05-1978,"Columbia College","Chapters in Western Civilization, Vol. 1",1954,545,4
+138,01-06-1978,Plato,"The Last Days of Socrates, Euthyphro, The Apology, Crito, Phaedo",390bc,199,5
+139,01-06-1978,"Chie Nakane","Japanese Society",1970,151,2
+140,01-06-1978,Homer,"The Iliad",730bc,459,5
+141,01-06-1978,Plato,"The Symposium",385bc,122,4
+142,01-08-1978,"Fyodor Dostoevsky","The Idiot",1869,642,2
+143,01-09-1978,"Lytton Strachey","Eminent Victorians",1918,338,0
+144,01-09-1978,"Robertson Davies","Fifth Business",1970,268,3
+145,01-11-1978,"A.J.P. Taylor","The Second World War",1975,235,5
+146,01-02-1979,"John McPhee","Coming Into the Country",1976,438,0
+147,01-03-1979,"William Manchester","The Glory and the Dream",1974,1302,2
+148,01-05-1979,"L.N. Tolstoy",Ressurrection,1899,568,3
+149,01-06-1979,"Paul Bowles","The Sheltering Sky",1949,305,4
+150,01-06-1979,"Joseph Conrad","Heart of Darkness",1902,111,2
+151,01-07-1979,"Yukio Mishima","Spring Snow",1968,376,1
+152,01-07-1979,"James Joll","European History since 1870",1973,486,0
+153,01-08-1979,"Norman Mailer",Marilyn,1974,262,5
+154,01-08-1979,"Jean Rhys","Good Morning, Midnight",1974,190,2
+155,01-08-1979,"John Irving","The World According to Garp",1976,609,3
+156,01-09-1979,Plato,"The Protagoras, The Meno",430bc,157,3
+157,01-09-1979,"Richard Price","Ladies' Man",1978,264,2
+158,01-09-1979,"James M. Cain","The Postman Always Rings Twice",1934,120,2
+159,01-09-1979,"Jean Rhys","Voyage in the Dark",1934,159,2
+160,01-09-1979,"Adam Smith","The Wealth of Nations",1776,347,0
+161,01-11-1979,"John C. Brandt and Stephen P. Maran","New Horizons in Astronomy",1979,533,0
+162,01-11-1979,"Margaret Mead","Male and Female",1949,344,1
+163,01-11-1979,"Friedrich Nietzsche","Ecco Homo",1888,134,2
+164,01-11-1979,"A. Alvarez","The Savage God",1971,272,1
+165,01-11-1979,"Thomas Hardy","Jude the Obscure",1896,511,3
+166,01-12-1979,"George Santayana","The Sense of Beauty",1896,164,2
+167,01-12-1979,"Jonathan Swift","Gulliver's Travels",1726,360,4
+168,01-12-1979,"W.B. Yeats",Autobiography,1922,387,4
+169,01-12-1979,"John Reed","Ten Days that Shook the World",1926,351,5
+170,01-01-1980,"Isaac Bashevis Singer","The Slave",1962,287,5
+171,01-01-1980,"John Dewey","Liberalism and Social Action",1935,93,4
+172,01-01-1980,"Studs Turkel",Working,1972,762,1
+173,01-02-1980,"Charles Dickens","Great Expectations",1861,512,3
+174,01-07-1980,"Jean-Jacques Rousseau","Botany, a study of pure curiosity",1781,122,5
+175,01-07-1980,"Henry James","The American",1875,325,2
+176,01-07-1980,"Len Jenkin","New Jerusalem",1985,204,1
+177,01-09-1980,"Jean Dorst","The Life of Birds, vol. 1",1971,341,0
+178,01-09-1980,"Marcel Proust","Within a Budding Grove",1920,386,1
+179,01-10-1980,"Lester C. Thurow","The Zero-Sum Society",1980,214,0
+180,01-11-1980,"John Huston","An Open Book",1980,373,1
+181,01-11-1980,"Mordecai Richler","Joshua, Then and Now",1980,435,3
+182,01-01-1981,"W.X.C. Guthrie",Socrates,1969,187,3
+183,01-01-1981,"Jonathan Miller","The Body in Question",1978,341,0
+184,01-02-1981,"Edward Gibbon","The Decline and Fall of the Roman Empire (Abridged)",1787,713,1
+185,01-02-1981,"J.P. Donleavy","The Destinies of Darcy Dancer, Gentleman",1977,402,5
+186,01-03-1981,"James Joyce","A Portrait of the Artist as a Young Man",1916,253,4
+187,01-03-1981,"John Steinbeck","The Acts of King Arthur and His Noble Knights",1976,349,0
+188,01-06-1981,"J.D. Salinger","uncollected short stories, vol. 2 (containing "The Inverted Forest"")"",1947,107,1
+189,01-06-1981,"Gary Zukav","The Dancing Wu Li Masters",1979,332,4
+190,01-06-1981,"Johann Wolfgang Goethe","Faust (part one)",1805,197,0
+191,01-07-1981,"David Halberstam","The Powers That Be",1979,1027,1
+192,01-07-1981,"Laurie Lee","As I Walked Out One Midsummer Morning",1969,186,5
+193,01-07-1981,"Benvenuto Cellini",Autobiography,1562,397,0
+194,01-08-1981,"Isaac Bashevis Singer","Lost in America",1981,259,2
+195,01-09-1981,"Charles Dickens","Nicholas Nickleby",1839,934,2
+196,01-10-1981,"Jack London","Martin Eden",1909,348,1
+197,01-10-1981,"Henry James","Washington Square",1880,174,2
+198,01-10-1981,Aristotle,"On Poetry and Style",350bc,106,5
+199,01-10-1981,"Saint Augustine",Confessions,398ad,347,5
+200,01-11-1981,"Joan Edelman Spero","The Politics of International Economic Relations",1981,334,2
+201,01-11-1981,"Francois Rabelais","Gargantua and Pantagruel",1534,712,1
+202,01-12-1981,"David Halberstam","The Breaks of the Game",1981,360,5
+203,01-12-1981,"Immanuel Kant","Foundations of the Metaphysics of Morals",1785,92,1
+204,01-12-1981,Einhard,"The Life of Charlemagne",830,67,4
+205,01-01-1982,"David Hume","An Enquiry Concerning Human Understanding",1748,124,1
+206,01-01-1982,"Miguel de Cervantes Saavedra","Don Quixote",1604,940,1
+207,01-01-1982,"Virginia Woolf","A Room of One's Own",1929,118,1
+208,01-01-1982,"Gustave Flaubert","The Dictionary of Accepted Ideas",1882,92,1
+209,01-02-1982,"Baldesar Castiglione","The Book of the Courtier",1518,345,4
+210,01-02-1982,"Charles Major","When Knighthood Was in Flower",1898,294,0
+211,01-02-1982,"Giovanni Pico della Mirandola","Oration on the Dignity of Man",1487,69,2
+212,01-02-1982,"David C. Gompert, Michael Mandelbaum, Richard L. Garwin, John H. Barton","Nuclear Weapons and World Politics",1977,354,4
+213,01-03-1982,"D.M. Thomas","The White Hotel",1981,240,5
+214,01-03-1982,"Willard Gaylin, Ira Glasser, Steven Marcus, David Rochman","Doing Good(The Limits of Benevolence)",1978,168,5
+215,01-04-1982,"Jane Austen",Emma,1816,471,1
+216,01-04-1982,"John Calvin","On God and Political Duty",1535,121,3
+217,01-04-1982,"Leon Edel","Henry James - The Middle Years: 1882--1895",1962,389,4
+218,01-05-1982,"Milan Kundera","The Book of Laughter and Forgetting",1980,237,0
+219,01-05-1982,"Yukio Mishima","Runaway Horses",1969,423,4
+220,01-05-1982,"Albert Einstein","The World As I See It",1932,112,1
+221,01-05-1982,"Ivan Turgenev","First Love",1860,107,3
+222,01-05-1982,"Vincent Wright","The Government and Politics of France",1978,253,3
+223,01-05-1982,"Jean Rhys","Wide Sargasso Sea",1966,156,1
+224,01-05-1982,"Lionel Trilling","Sincerity and Authenticity",1971,158,3
+225,01-05-1982,"Christopher Isherwood","Prater Violet",1945,160,1
+226,01-06-1982,"Johan Huizinga","The Waning of the Middle Ages",1919,335,1
+227,01-06-1982,"Honoré de Balzac","The Black Sheep",1842,339,5
+228,01-06-1982,"Martin Buber","On Judaism",1951,231,0
+229,01-06-1982,"David Sylvester","Napoleon and the French Empire",1978,90,1
+230,01-07-1982,"Robert S. Lopez","The Three Ages of the Italian Renaissance",1970,74,5
+231,01-07-1982,"Marie Sandoz","Crazy Horse",1942,413,4
+232,01-08-1982,"David McClintick","Indecent Exposure",1982,521,1
+233,01-09-1982,"Fyodor Dostoevsky","The Adolescent",1874,599,2
+234,01-10-1982,"Robert Graves","Goodbye to All That",1929,347,5
+235,01-10-1982,"Robert G. Weisbord","Ebony Kinship",1973,220,4
+236,01-10-1982,"Marc Bloch","Feudal Society Vol. 1",1940,279,2
+237,01-11-1982,"John Updike","Bech is Back",1982,195,3
+238,01-12-1982,Bible,"The Book of Job",1488,63,0
+239,01-12-1982,"Robin Lane Fox","The Search for Alexander",1980,441,1
+240,01-12-1982,"James Joyce","Stephen Hero",1906,253,2
+241,01-12-1982,"William Shakespeare","Antony and Cleopatra",1607,133,4
+242,01-12-1982,"Lawrence Durrell",Justine,1957,245,4
+243,01-02-1983,"William James","The Varieties of Religious Experience",1902,500,4
+244,01-02-1983,"André Breton",Nadja,1928,160,1
+245,01-02-1983,"Stephen Jay Gould","Ever Since Darwin",1977,271,4
+246,01-02-1983,"Mikhail Bulgakov","The Master and Margarita",1940,402,5
+247,01-03-1983,"John Le Carré","Tinker, Tailor, Soldier, Spy",1974,317,1
+248,01-03-1983,"Thornton Wilder","The Bridge of San Luis Rey",1927,124,3
+249,01-04-1983,Various,"Introduction to Contemporary Civilization in the West, Vol. 1",1960,880,2
+250,01-05-1983,"Jean-Jacques Rousseau","The Confessions",1781,606,5
+251,01-05-1983,"Tom Wolfe","The Painted Word",1975,120,0
+252,01-06-1983,"Patrick Humphries","Bookends - The Simon and Garfunkel Story",1982,186,3
+253,01-06-1983,"Emil Ludwig",Napoleon,1926,682,0
+254,01-07-1983,"Jean-Jacques Rousseau","The Social Contract and ",1762,226,1
+255,01-07-1983,"Jean-Jacques Rousseau","The Social Contract and Discourse on the Origin of Inequality",1762,226,4
+256,01-08-1983,"Arnt Eliassen and Kaare Pedersen","Meteorology, an Introductory Course, Vol. 1 chapters 1, 2, 3",1977,135,1
+257,01-08-1983,"Jean-Jacques Rousseau","Reveries of the Solitary Walker",1778,155,2
+258,01-08-1983,"Henry David Thoreau",Walden,1854,247,2
+259,01-08-1983,"Peter Gay","The Enlightenment (The Rise of Modern Pagasm) *",1966,419,5
+260,01-08-1983,Plutarch,"Makers of Rome (from Lives)",100,366,3
+261,01-09-1983,Basho,"The Narrow Road to the Deep North",1690,147,0
+262,01-09-1983,"W. Somerset Maugham","The Razor's Edge",1944,314,2
+263,01-09-1983,"Aaron Copland","Copland on Music",1959,280,0
+264,01-09-1983,Moliere,"'The Misanthrope' (a play)",1666,55,0
+265,01-09-1983,"Dylan Thomas","Portrait of the Artist as a Young Dog",1940,128,3
+266,01-09-1983,"Isaac Asimov","The Human Body",1963,309,2
+267,01-09-1983,"Vladimir Nabokov","Lectures on Literature",1980,382,0
+268,01-09-1983,Aeschylus,"The Oresteian Trilogy",480bc,203,5
+269,01-10-1983,Sophocles,"'Electra' (a play)",435bc,55,3
+270,01-10-1983,"William Shakespeare","'Trolius and Cressida'",1602,152,1
+271,01-10-1983,Cicero,"Selected Works",60bc,160,5
+272,01-11-1983,"Elie Wiesel","The Testament",1981,261,2
+273,01-11-1983,"Tom Stoppard","Albert's Bridge",1969,116,2
+274,01-11-1983,"Tom Stoppard","If You're Glad I'll Be Frank",1969,116,0
+275,01-11-1983,"Tom Stoppard","Artist Descending a Staircase",1973,116,1
+276,01-11-1983,"Sappho, Pindar, Solon, and 23 others","Greek Lyrics",500bc,82,5
+277,01-12-1983,"Robertson Davies","One Half of Robertson Davies",1978,286,5
+278,01-12-1983,"Basile Kerblay","Modern Soviet Society",1983,306,3
+279,01-01-1984,"James Joyce",Ulysses,1921,783,0
+280,01-01-1984,"Jim Harrison",Farmer,1976,160,2
+281,01-01-1984,"Michel de Montaigne","Travel Journal",1580,175,2
+282,01-02-1984,"Richard Price","Ladies' Man",1978,264,4
+283,01-02-1984,"William Maxwell","So Long, See You Tomorrow",1980,149,2
+284,01-02-1984,"William Shakespeare","Ages of Man: readings by John Gielgud",1600,93,0
+285,01-03-1984,"J.D. Salinger","Nine Stories",1953,198,5
+286,01-03-1984,"W. Edward Mann and Edward Hoffman","The Man Who Dreamed of Tomorrow: The Life and Thought of Wilhelm Reich",1980,253,0
+287,01-03-1984,"Hallie Burnett","On Writing the Short Story",1983,148,3
+288,01-04-1984,"J.D. Salinger","Uncollected Short Stories, Vol. 1",1946,89,0
+289,01-04-1984,"William Strunk, Jr. and E.B. White","The Elements of Style",1959,43,1
+290,01-04-1984,"Thomas Mann","The Confessions of Felix Krull Confidence Man (The Early Years)",1955,378,3
+291,01-04-1984,"Guy de Maupassant","A Woman's Life",1883,202,1
+292,01-04-1984,"Thomas Hardy","The Distracted Preacher' and four other short stories",1888,175,4
+293,01-05-1984,"Anton Chekhov","'The Kiss' and other short stories",1902,168,2
+294,01-05-1984,"Olivia Coolidge","George Bernard Shaw",1968,226,3
+295,01-05-1984,"Anthony Burgess","Ninety-nine Novels",1984,156,4
+296,01-05-1984,"George Bernard Shaw","Saint Joan",1924,158,0
+297,01-05-1984,"L.N. Tolstoy","The Portable Tolstoy",1908,429,5
+298,01-05-1984,"John Dover Wilson","Life in Shakespeare's England",1634,345,5
+299,01-05-1984,"L.N. Tolstoy","What is Art?",1896,191,4
+300,01-05-1984,"Henrik Ibsen","A Doll's House",1879,103,0
+301,01-06-1984,"Bob Woodward","Wired: The Short Life and Fast Times of John Belushi",1984,423,0
+302,01-06-1984,Plato,"The Republic",375bc,455,2
+303,01-06-1984,"Robert H. March","Physics for Poets",1970,253,0
+304,01-07-1984,"Gore Vidal",Creation,1981,593,0
+305,01-07-1984,"Italo Calvino","The Baron in the Trees",1959,217,4
+306,01-07-1984,"Alexander L. George","Managing U.S. - Soviet Rivalry",1983,397,3
+307,01-07-1984,"J.W. Goethe","Italian Journey",1786,398,2
+308,01-08-1984,"Frederick Exley","A Fan's Notes",1968,353,0
+309,01-08-1984,"Ivan Turgenev","Fathers and Sons",1861,295,2
+310,01-08-1984,"Edmund Wilson","Axel's Castle",1931,235,3
+311,01-09-1984,"C.S. Forster","Mr. Midshipman Hornblower",1941,252,1
+312,01-10-1984,"Alexander Pushkin","Eugene Onegin",1830,233,1
+313,01-10-1984,"Mikhail Lermontov","A Hero of Our Time",1839,185,1
+314,01-10-1984,"Colin McEvedy","The Penguin Atlas of Recent History, Europe since 1815",1982,90,3
+316,01-10-1984,"Iris Murdoch","A Severed Head",1961,205,0
+317,01-10-1984,"Jean de La Fontaine","Selected Fables",1693,141,2
+318,01-10-1984,"William Shakespeare",Othello,1604,154,1
+319,01-10-1984,"Réné Descartes","Meditations on First Philosophy",1641,56,0
+320,01-10-1984,"Alan Sillitoe","The Loneliness of the Long Distance Runner",1959,144,4
+321,01-10-1984,"W.E.B. Dubois","The Souls of Black Folk",1903,278,4
+322,01-10-1984,"James Salter","Light Years",1975,308,0
+323,01-11-1984,"Milan Kundera","The Unbearable Lightness of Being",1984,314,0
+324,01-12-1984,"E.M.W. Tillyard","The Elizabethan World Picture",1958,109,4
+325,01-12-1984,"Bruno Bettelheim","The Uses of Enchantment",1975,310,0
+326,01-01-1985,"William M. Thackeray","Vanity Fair",1847,636,3
+327,01-01-1985,"Knut Hamsun",Mysteries,1892,254,1
+328,01-01-1985,"Susan Cheever","Home Before Dark",1984,243,4
+329,01-02-1985,"Thornton Wilder","The Ides of March",1948,204,3
+330,01-02-1985,"A.J.P. Taylor","Revolutions and Revolutionaries",1980,160,1
+331,01-03-1985,"Arkady N. Shevchenko","Breaking with Moscow",1985,370,3
+332,01-03-1985,"Constantin Stanislavski","An Actor Prepares",1936,295,0
+333,01-04-1985,"Michael White","Empty Seats",1984,190,0
+334,01-04-1985,"Constantin Stanislavski","Creating a Role",1938,262,2
+335,01-04-1985,"Richard Price","The Breaks",1983,446,0
+336,01-05-1985,"Robert Stone","A Flag for Sunrise",1977,440,3
+337,01-05-1985,"David Shapiro","Neurotic Styles",1965,199,2
+338,01-05-1985,"Richard S. Dunn","The Age of Religious Wars 1559-1715",1970,302,1
+339,01-05-1985,"Harriet Beecher Stowe","Uncle Tom's Cabin",1852,590,1
+340,01-05-1985,"Anthony Burgess","This Man & Music",1982,192,0
+341,01-06-1985,"Victor Hugo","Notre Dame of Paris",1831,493,5
+342,01-06-1985,Lucretius,"On the Nature of the Universe",54bc,256,1
+343,01-06-1985,"Leonardo Da Vinci","The Codex Leicester",1507,175,5
+344,01-06-1985,"Howard Greenfeld",Caruso,1983,254,3
+345,01-07-1985,"Marcel Proust","The Guermantes Way",1925,425,0
+346,01-07-1985,"Frances Fitzgerald","Fire in the Lake",1972,590,2
+347,01-08-1985,"Nora Ephron",Heartburn,1983,223,3
+348,01-08-1985,"Fritjof Capra","The Tao of Physics",1975,311,5
+349,01-08-1985,"Lao Tsu","Tao Te Ching",600bc,81,1
+350,01-09-1985,"Leon Edel","Bloomsbury - A House of Lions",1979,299,1
+351,01-09-1985,"Judith Martin","Miss Manners Guide to Excruciatingly Correct Behavior",1979,555,1
+352,01-09-1985,"L.N. Tolstoy",Confession,1879,93,0
+353,01-09-1985,"Alice Walker","The Color Purple",1982,251,2
+354,01-10-1985,"Richard Ellmann","James Joyce",1959,744,4
+355,01-10-1985,"E.F. Benson","Queen Lucia part 1",1920,318,4
+356,01-10-1985,"James Joyce",Dubliners,1905,223,5
+357,01-10-1985,"Thomas Hardy","The Mayor of Casterbridge",1886,411,0
+358,01-10-1985,"Henry Chadwick","The Early Church",1967,289,5
+359,01-10-1985,Herodotus,"The Histories",446bc,624,2
+360,01-11-1985,"Edith Wharton","The House of Mirth",1905,329,2
+361,01-11-1985,"J.K. Galbraith","A China Passage",1973,138,4
+362,01-11-1985,"Arthur Schopenhauer","Essays and Aphorisms",1851,236,1
+363,01-11-1985,"Luigi Barzini","The Europeans",1983,267,5
+364,01-11-1985,"Rollo May","My Quest for Beauty",1985,243,3
+365,01-12-1985,"Carl Sagan",Cosmos,1980,286,5
+366,01-12-1985,"Eugen Herrigel","Zen in the Art of Archery",1953,90,2
+367,01-12-1985,"David Hume","Dialogues Concerning Natural Religion",1775,105,2
+368,01-12-1985,"Julius Caesar","The Conquest of Gaul",52bc,236,4
+369,01-12-1985,"Mark Twain","A Connecticut Yankee in King Arthur's Court",1889,331,0
+370,01-12-1985,"Richard Hudson",Linguistics,1984,166,3
+371,01-01-1986,Virgil,"The Aeneid",30bc,336,0
+372,01-01-1986,Various,"The Colour of Saying Anthology of Verse",1963,170,3
+373,01-03-1986,"Gene A. Brucker","Renaissance Florence",1969,280,0
+374,01-03-1986,"Edward I. Koch",Politics,1985,246,1
+375,01-03-1986,"Giorgio Vasari","Lives of the Artists",1568,477,4
+376,01-04-1986,"Julian Jaynes","The Origin of Consciousness in the Breakdown of the Bicameral Mind",1976,446,2
+377,01-04-1986,"G. William Domhoff","Who Rules America Now?",1983,223,2
+378,01-05-1986,"Martin Heidegger","Poetry, Language, Thought",1971,229,5
+379,01-06-1986,"Alan S. Parkes","Patterns of Sexuality and Reproduction",1976,141,1
+380,01-07-1986,"Edmund Gosse","Father and Son",1907,251,0
+381,01-09-1986,"John Gardner",Self-Renewal,1981,127,2
+382,01-09-1986,"Dante Alighieri",Inferno,1314,180,5
+383,01-09-1986,"E.M. Forster","Howard's End",1910,271,4
+384,01-09-1986,"Gaston Bachelard","The Poetics of Space",1958,241,1
+385,01-09-1986,"William Kennedy",Ironweed,1983,227,2
+386,01-10-1986,Homer,"The Odyssey",700bc,365,1
+387,01-10-1986,"James Joyce","Selected Letters, edited by Richard Ellman",1957,409,4
+388,01-11-1986,"Moss Hart","Act One",1959,383,0
+389,01-11-1986,"Vladimir Nabokov","The Enchanter",1939,95,5
+390,01-11-1986,"Ralph Waldo Emerson","The Heart of Emerson's Journals, 1820-75",1875,338,1
+391,01-12-1986,"Harold C. Schonberg","The Lives of the Great Composers",1970,627,5
+392,01-12-1986,"David A. Stockman","The Triumph of Politics",1986,411,0
+393,01-12-1986,"Stanislaus Joyce","The Dublin Diary of Stanislaus Joyce",1904,114,4
+394,01-01-1987,"Thomas Hobbes",Leviathan,1651,729,3
+395,01-02-1987,"Rainer Maria Rilke","Letters to Benvenuta",1914,87,3
+396,01-02-1987,"Douglass H. Morse","Behavioral Mechanisms in Ecology",1980,320,2
+397,01-04-1987,"Mark Twain and Charles Dudley Warner","The Gilded Age",1873,222,1
+398,01-04-1987,"Arthur Power","Conversations with James Joyce",1974,111,2
+399,01-05-1987,"Jacques Barzun","The Use and Abuse of Art",1974,150,0
+400,01-05-1987,"V.S. Naipaul","Among the Believers (an Islamic Journey)",1980,430,0
+401,01-05-1987,"Carrie Fisher","Postcards from the Edge",1987,218,1
+402,01-06-1987,"Michel Montaigne",Essays,1580,406,5
+403,01-06-1987,"Marcel Proust","Cities of the Plain",1913,378,5
+404,01-06-1987,"Peter Gay","The Bourgeois Experience Education of the Senses",1984,460,0
+405,01-06-1987,"Sigmund Freud","The Ego and the Id",1923,49,3
+406,01-07-1987,"V.I. Lenin","Imperialism, The Highest Stage of Capitalism",1916,128,5
+407,01-07-1987,"Larry McMurtry","Lonesome Dove",1985,945,5
+408,01-07-1987,"A.J. Liebling","Between Meals",1959,185,4
+409,01-07-1987,"Peter Fornatale & Joshua E. Mills","Radio in the Television Age",1980,196,5
+410,01-07-1987,"Martin Amis","Einstein's Monsters",1987,149,0
+411,01-07-1987,"Barry Lopez","Arctic Dreams",1986,372,2
+412,01-07-1987,"Doris Lessing","The Golden Notebook",1962,666,0
+413,01-08-1987,Various,"The Practical Cogitator, The Thinker's Anthology",1945,644,3
+414,01-08-1987,"James Branch Cabell",Jurgen,1919,368,0
+415,01-08-1987,"Heinrich Heine",Deutschland,1843,100,3
+416,01-09-1987,"Max I. Dimont","Jews, God and History",1962,371,5
+417,01-09-1987,"Jorge Luis Borges","An Introduction to American Literature",1967,90,5
+418,01-09-1987,"Marco Polo","The Travels",1298,345,1
+419,01-09-1987,"Martin Heidegger","Discourse on Thinking",1955,90,4
+420,01-09-1987,"John A. Wilson","The Culture of Ancient Egypt",1951,318,1
+421,01-10-1987,"Denis Diderot","Rameau's Nephew",1761,125,2
+422,01-10-1987,"Rudyard Kipling","Just So Stories",1902,158,2
+423,01-10-1987,"Peter Ladefoged","Elements of Acoustic Phonetics",1962,108,5
+424,01-10-1987,"Friedrich Nietzche","A Nietzsche Reader",1880,284,1
+425,01-10-1987,"Jane Austen","Mansfield Park",1814,464,3
+426,01-10-1987,"C.P. Snow","The Two Cultures & A Second Look",1964,100,0
+427,01-11-1987,"Mark Twain","Life on the Mississippi",1882,352,1
+428,01-11-1987,"Zbigniew Brzezinski","Game Plan",1986,273,3
+429,01-11-1987,"Honoré de Balzac","Ursule Mirouet",1841,266,0
+430,01-11-1987,"Celia McEvedy","The Penguin Atlas of Ancient History",1967,92,0
+431,01-11-1987,"Robert Roberts","The Classic Slum",1971,238,1
+432,01-11-1987,Colette,"Break of Day",1928,117,1
+433,01-11-1987,"André Malraux","Man's Fate",1934,338,1
+434,01-11-1987,"Jean Racine",Andromache,1672,111,4
+435,01-11-1987,"Roger Fisher, William Ury","Getting to Yes",1981,154,1
+436,01-12-1987,"Ernst Cassirer","Language and Myth",1946,99,0
+437,01-12-1987,"Mikhail Gorbachev",Perestroika,1987,254,5
+438,01-01-1988,"Adin Steinsaltz","The Essential Talmud",1976,275,5
+439,01-01-1988,"William Shakespeare","A Midsummer Night's Dream",1600,256,4
+440,01-01-1988,Voltaire,"Letters on England",1733,145,4
+441,01-01-1988,"Tom Wolfe","The Bonfire of the Vanities",1987,659,2
+442,01-01-1988,"Beowulf Poet",Beowulf,800,115,1
+443,01-01-1988,"P.G. Wodehouse","The Inimitable Jeeves",1924,224,0
+444,01-02-1988,"Gene Lees","Singers and the Song",1987,257,0
+445,01-02-1988,"Mark Twain","Tom Sawyer Abroad and Tom Sawyer Detective",1896,211,2
+446,01-02-1988,"Fyodor Dostoevsky","Notes from the Underground",1864,158,2
+447,01-03-1988,"Gretel Ehrlich","The Solace of Open Spaces",1985,131,0
+448,01-03-1988,"Henry Fielding","Joseph Andrews",1742,298,5
+449,01-04-1988,"George Holmes","The Later Middle Ages, 1272--1485",1962,260,1
+450,01-04-1988,"David J. Garrow","The F.B.I. and Martin Luther King, Jr.",1981,227,5
+451,01-04-1988,"George Eliot",Middlemarch,1872,908,0
+452,01-05-1988,"John Dos Passos","The 42nd Parallel",1930,414,3
+453,01-05-1988,Anonymous,"The Vinland Sagas",1250,105,1
+454,01-05-1988,"Michael J. Malbin, ed.","Money and Politics in the United States",1984,270,5
+455,01-05-1988,"Donald T. Regan","For the Record",1988,379,1
+456,01-06-1988,"Benjamin Franklin","The Autobiography and other writings",1790,260,1
+457,01-06-1988,"Elia Kazan","A Life",1988,825,4
+458,01-06-1988,"Francis Parkman","The Oregon Trail",1849,286,0
+459,01-07-1988,"Arthur Schopenhauer","The Art of Literature",1841,149,5
+460,01-07-1988,"Gustave Flaubert",November,1842,132,3
+461,01-07-1988,"Albert Einstein","Sidelights on Relativity",1921,56,0
+462,01-07-1988,Confucius,"The Analects",500bc,160,0
+463,01-07-1988,"Yasunari Kawabata","The Lake",1954,160,4
+464,01-07-1988,"Marcel Proust","On Reading",1905,67,4
+465,01-07-1988,"Richard Hofstadter",""The Paranoid Style in American Politics and Other Essays"""",1965,315,4
+466,01-08-1988,collected," The Poet's Work",1977,294,4
+467,01-08-1988,Seneca,"Epistulae Morales vol. 1",65,229,1
+468,01-08-1988,"Vladimir Nabokov","The Portable Nabokov",1968,536,3
+469,01-09-1988,Various," Quarrels that have Shaped the Constitution",1962,268,4
+470,01-09-1988,"Jacques Barzun","A Word or Two Before You Go",1986,177,2
+471,01-09-1988,"Anthony Trollope","Framely Parsonage",1860,563,3
+473,01-11-1988,"Christopher Clapham","Third World Politics",1985,186,1
+474,01-12-1988,"Richard Russo","The Risk Pool",1988,479,5
+475,01-01-1989,"Charles Dickens","Bleak House",1853,975,4
+476,01-01-1989,"P.P. Xahane","Ancient and Classical Art",1967,200,4
+477,01-01-1989,"Charles Baudelaire","Paris Spleen",1869,108,0
+478,01-02-1989,"Willa Cather","O Pioneers!",1913,309,0
+479,01-02-1989,"Nadine Gordimer","The Late Bourgeois World",1966,95,0
+480,01-02-1989,"Jean Corst","The Life of Birds, vol. 2",1971,338,3
+481,01-03-1989,Voltaire,"Philosophical Dictionary",1764,400,4
+482,01-03-1989,"John Stoye","Europe Unfolding 1648-1688",1969,399,3
+483,01-03-1989,"E.L. Doctorow","Billy Bathgate",1989,323,2
+484,01-04-1989,"Howard Hibbard",Bernini,1965,229,4
+485,01-04-1989,"Yasuji Kirimura","Fundamentals of Buddhism",1977,210,4
+486,01-04-1989,"Scott Buchanan","Poetry and Mathematics",1929,156,1
+487,01-05-1989,"Gore Vidal",Lincoln,1984,657,5
+488,01-05-1989,"Gabriel Garcia Marquez","Love in the Time of Cholera",1988,348,0
+489,01-05-1989,Bible,"The Bible",1488,520,4
+490,01-07-1989,"Brenda Maddox","Nora - The Real Life of Molly Bloom",1988,381,2
+491,01-07-1989,"John Milton","Paradise Lost",1667,339,4
+492,01-08-1989,"Sanche de Gramont","Epitaph for Kings",1969,428,3
+493,01-08-1989,"Stephen W. Hawking","A Brief History of Time",1988,182,0
+494,01-08-1989,"Wallace Stevens","The Necessary Angel",1951,176,4
+495,01-09-1989,"edited by W.H. Auden","The Portable Greek Reader",1948,726,1
+496,01-09-1989,"Honoré de Balzac","The Wild Ass's Skin",1831,285,4
+497,01-09-1989,"Quentin Crisp","Manners from Heaven",1984,138,5
+498,01-10-1989,"Sigmund Freud","Civilization and Its Discontents",1930,104,1
+499,01-10-1989,"Michael Harrington","The Other America",1962,221,4
+500,01-10-1989,"Art Garfunkel","Still Water - Prose Poems",1989,119,4
+501,01-10-1989,"Umberto Eco","Art and Beauty in the Middle Ages",1959,119,3
+502,01-10-1989,"Anton Chekhov","The Fiancée and other stories",1890,232,2
+503,01-12-1989,"Theodore Dreiser","An American Tragedy",1925,828,0
+504,01-12-1989,"Santoru Izumi","Guidelines to Faith",1980,160,2
+505,01-12-1989,"Robert Louis Stevenson","Travels with a Donkey",1879,126,1
+506,01-12-1989,"James D. Watson","The Double Helix",1968,231,1
+507,01-12-1989,"Noam Chomsky, Edward S. Herman","Manufacturing Consent",1988,291,3
+508,01-01-1990,"Anthony Trollope","An Autobiography",1883,367,1
+509,01-01-1990,"Joseph Campbell (with Bill Moyers)","The Power of Myth",1988,231,4
+510,01-02-1990,"Henry Miller","Quiet Days in Clichy",1940,154,4
+511,01-02-1990,"Colin McEvedy","The Penguin Atlas of Modern History (to 1815)",1972,90,2
+512,01-02-1990,"J.P. Kenyon","Stuart England",1978,355,5
+513,01-02-1990,"Michel Foucault","The History of Sexuality vol. 1: An Introduction",1976,159,2
+514,01-02-1990,"Virginia Woolf","Contemporary Writers",1920,160,3
+515,01-02-1990,"William Shakespeare",""Henry V"""",1599,123,0
+516,01-03-1990,"Honoré de Balzac","Lost Illusions",1843,682,4
+517,01-03-1990,"Ian Frazier","Great Plains",1989,214,5
+518,01-04-1990,Anonymous,"Tales from the Thousand and One Nights",850bc,407,5
+519,01-07-1981,"Anne Rice","Interview With the Vampire",1976,346,2
+520,01-05-1990,"Charles R. Morris","The Cost of Good Intentions",1980,240,2
+521,01-06-1990,Various,"The Portable Renaissance Reader",1500,754,3
+522,01-06-1990,"Jerrold Seigel","Bohemian Paris",1986,397,0
+523,01-06-1990,"Paul Magriel, John T. Spike","A Connoisseur's Guide to the Met",1987,235,3
+524,01-07-1990,"Mark Twain","The Innocents Abroad",1867,492,4
+525,01-07-1990,"Sylvia Plath","The Bell Jar",1963,216,5
+526,01-07-1990,"George F. Will","Men at Work",1990,330,4
+527,01-07-1990,"Edith Hamilton",Mythology,1940,321,1
+528,01-07-1990,"Ernest Hemingway","A Moveable Feast",1960,211,5
+529,01-07-1990,"Edith Wharton","Ethan Frome",1911,133,5
+530,01-08-1990,"J.F. Stone","The Trial of Socrates",1988,230,5
+531,01-08-1990,"Daniel Bates, Amal Rassam","Peoples and Cultures of the Middle East",1983,283,2
+533,01-09-1990,Tacitus,"The Histories",98,287,0
+534,01-09-1990,"Carrie Fisher","Surrender the Pink",1990,281,1
+535,01-09-1990,"John McPhee","Rising from the Plains",1986,214,2
+536,01-09-1990,"George Eliot","The Lifted Veil",1879,91,5
+537,01-11-1990,"Thomas Mann","The Magic Mountain",1927,716,1
+538,01-11-1990,"Fredric Dannen","Hit Men",1990,327,2
+539,01-11-1990,"The Koran","The Koran",610,435,0
+540,01-01-1991,"Roderic Gorney","The Human Agenda",1968,575,5
+541,01-02-1991,"William Thackeray","The History of Henry Esmond",1852,513,4
+542,01-02-1991,"Rachel Carlson","Silent Spring",1962,297,2
+543,01-02-1991,"Charles Grodin","It Would Be So Nice If You Weren't Here",1989,308,5
+544,01-02-1991,"Will and Ariel Durant","The Story of Civilization VIII:",1963,74,2
+545,01-02-1991,"Will and Ariel Durant","The Story of Civilization VIII: The Age of Louis XIV",1963,74,0
+546,01-03-1991,"Margaret Mead","Coming of Age in Samoa",1928,197,2
+547,01-03-1991,"Thomas L. Friedman","From Beirut to Jerusalem",1989,525,0
+548,01-04-1991,"Daphne du Maurier","Jamaica Inn",1936,247,0
+549,01-04-1991,"Daisaku Ikeda","The Creative Family",1977,159,0
+550,01-04-1991,"Marcus Aurelius","The Meditations",177,129,4
+551,01-05-1991,"Thomas Szasz","Ceremonial Chemistry",1974,170,5
+552,01-05-1991,"Marcel Proust","The Captive",1921,289,2
+553,01-05-1991,"Thomas Hardy","Under the Greenwood Tree",1872,241,1
+554,01-06-1991,"Arthur Koestler","Darkness at Noon",1940,216,4
+555,01-06-1991,"Herbert Marcuse","Eros and Civilization",1955,274,1
+556,01-07-1991,"edited by F. Stephen Larrabee","The Two German States and European Security",1988,307,2
+557,01-07-1991,"Marc Bloch","Feudal Society, vol. 2",1961,170,4
+558,01-08-1991,"Oscar Hijuelos","The Mambo Kings Play Songs of Love",1989,407,0
+559,01-09-1991,"Jim Harrison",Dalva,1988,324,2
+560,01-10-1991,"William Pfaff","Barbarian Sentiments",1989,189,0
+561,01-10-1991,"Madame de Lafayette","The Princess of Cleves",1678,168,1
+562,01-11-1991,"John Updike","Rabbit, Run",1960,249,4
+563,01-11-1991,"Paul Fussell",Bad,1991,201,3
+564,01-11-1991,"William Styron","The Confessions of Nat Turner",1966,429,4
+565,01-11-1991,"Sigmund Freud","The Future of an Illusion",1927,81,3
+566,01-11-1991,"A.R. Myers","England in the Late Middle Ages",1952,262,3
+567,01-11-1991,"Paul Hohenberg, Lynn Hollen Lees","The Making of Urban Europe 1000--1950",1985,340,3
+568,01-12-1991,"Leonardo Da Vinci","The Notebooks of Leonardo Da Vinci",1490,392,5
+569,01-12-1991,"Joseph Morella, Patricia Barey","Simon and Garfunkel",1991,252,0
+570,01-12-1991,"Sun Tzu","The Art of War",400bc,149,4
+571,01-12-1991,"Aleksandr Solzhenitsyn","Rebuilding Russia",1990,106,1
+572,01-01-1992,"H.G. Wells","A Short History of the World",1922,357,4
+573,01-01-1992,"Baroness Orczy","The Scarlet Pimpernel",1905,248,0
+574,01-02-1992,"H.L. Mencken","The Vintage Mencken",1933,246,4
+575,01-02-1992,"Robert Louis Stevenson","Dr. Jekyll and Mr. Hyde",1886,114,3
+576,01-02-1992,"William Julius Wilson","The Truly Disadvantaged",1987,164,5
+577,01-02-1992,"Swami Prabhavananda","The Sermon on the Mount according to Vendanta",1963,126,0
+578,01-03-1992,"Sigmund Freud","An Outline of Psycho-Analysis",1938,64,5
+579,01-03-1992,"Edgar Allan Poe","The Narrative of Arthur Gordon Pym",1938,220,0
+580,01-03-1992,"Andreas Capellanus","The Art of Courtly Love",1180,59,1
+581,01-03-1992,"William Faulkner","The Sound and the Fury",1931,284,4
+582,01-04-1992,"Nathaniel Hawthorne","The House of the Seven Gables",1851,245,1
+583,01-04-1992,"Edmund Burke","Reflections on the Revolution in France",1790,290,1
+585,01-04-1992,"William Shakespeare",""The Trajedy of Julius Caesar"""",1599,102,1
+586,01-04-1992,"Donald L. Barlett, James B. Steele","America: What Went Wrong?",1992,219,0
+587,01-06-1992,"Emil Ludwig","The Nile",1936,603,1
+588,01-06-1992,"Patrick J. Geary","Before France & Germany",1988,231,0
+589,01-06-1992,"Denis Diderot","The Nun",1760,188,3
+590,01-07-1992,"Richard Selzer","Mortal Lessons - Notes on the Art of Surgery",1974,217,2
+591,01-07-1992,"Ben H. Bagdikian","The Media Monopoly",1983,251,0
+592,01-07-1992,"Cyril Aldred","Egyptian Art",1980,240,2
+593,01-07-1992,"Nathaniel Hawthorne","The Blithedale Romance",1852,247,3
+594,01-07-1992,"Ben Weider, David Hapgood","The Murder of Napoleon",1982,257,1
+595,01-08-1992,"Elie Wiesel","A Jew Today",1978,247,3
+596,01-09-2022,Livy,"Rome and the Mediterranean",17,654,3
+597,01-09-1992,"Oliver Sacks","The Man Who Mistook His Wife for a Hat",1985,233,4
+598,01-11-1992,"Dorothy Parker","The Portable Dorothy Parker",1962,535,2
+599,01-12-1992,"Immanuel Kant","The Doctrine of Virtue",1797,167,2
+600,01-12-1992,"Alec Wilder","American Popular Song",1972,519,1
+601,01-12-1992,"Lawrence Shainberg","Brain Surgeon",1979,316,1
+602,01-12-1992,"Lord Chesterfield",Letters,1772,464,5
+603,01-12-1992,"Camille Paglia","Sex, Art, and American Culture",1992,287,1
+604,01-01-1993,"George Eliot","Silas Marner",1861,190,4
+605,01-02-1993,"Harry Crews",Body,1990,240,4
+606,01-02-1993,"Hermann Hesse",Demian,1919,179,5
+607,01-02-1993,"Jean Piaget","Six Psychological Studies",1964,157,1
+608,01-02-1993,"William Faulkner","Absalom, Absalom!",1936,306,2
+609,01-03-1993,"David King Dunaway","Huxley in Hollywood",1989,402,3
+610,01-03-1993,"Evelyn Waugh","Brideshead Revisited",1945,331,5
+611,01-03-1993,Unknown,"anthology: The European Security Framework in Transition 1984-92",1992,172,1
+612,01-03-1993,"Jess Stein","The Random House Dictionary of the English Language",1983,1664,4
+613,01-03-1993,"Sigmund Freud","On Dreams",1901,114,4
+614,01-03-1993,"Ernest Hemingway","Green Hills of Africa",1935,295,2
+615,01-04-1993,"Bruce Chatwin","On the Black Hill",1982,249,1
+616,01-04-1993,"K.J. Dover","Greek Homosexuality",1978,206,1
+617,01-04-1993,"David Thomson","England in the Twentieth Century",1965,362,2
+618,01-05-1993,"Virginia Woolf","To the Lighthouse",1927,310,1
+619,01-05-1993,"Jacques Barzun","The Culture We Deserve",1989,183,5
+620,01-06-1993,"Allan Gurganus","White People",1990,305,2
+621,01-06-1993,"Stanley Coren","The Left-Hander Syndrome",1992,281,5
+622,01-07-1993,"Leo Tolstoy","The Forged Coupon",1904,99,2
+623,01-07-1993,"Cristina Garcia","Dreaming in Cuban",1992,245,4
+624,01-07-1993,"Honoré de Balzac","Cousin Pons",1847,334,0
+625,01-07-1993,"Mark Green","Who Runs Congress?",1972,318,2
+626,01-08-1993,"Thomas Kessner","The Golden Door",1977,177,5
+627,01-08-1993,"Don DeLillo","White Noise",1984,326,1
+628,01-08-1993,"John Stuart Mill",Utilitarianism,1861,79,1
+629,01-10-1993,"Rudyand Kipling",Kim,1901,270,1
+630,01-10-1993,"Alan Lightman","Einstein's Dreams",1993,179,2
+631,01-11-1993,"Jules Michelet","Joan of Arc",1841,143,4
+632,01-11-1993,Plato,"Early Socratic Dialogues",327bc,375,5
+633,01-12-1993,"Erich Fromm","Escape from Freedom",1941,303,2
+634,01-12-1993,"V.S. Pritchett","The Offensive Traveller",1964,241,3
+635,01-12-1993,"Peter B. High","An Outline of American Literature",1986,241,4
+636,01-12-1993,"Susan Sontag","AIDS and Its Metaphors",1988,95,1
+637,01-12-1993,"Françoise Sagan","Bonjour Tristesse",1954,108,0
+638,01-12-1993,"Sherwood Anderson","Winesburg, Ohio",1919,247,1
+639,01-12-1993,"Flannery O'Connor","Mystery and Manners",1969,228,5
+640,01-12-1993,"Henry James","The Turn of the Screw",1898,160,4
+641,01-12-1993,"Thornton Wilder","The Cabala",1926,230,0
+642,01-12-1993,"Donald Matthew","Atlas of Medieval Europe",1983,225,2
+643,01-01-1994,"Jane Smiley","A Thousand Acres",1991,371,3
+644,01-02-1994,"Patrick Moore","Basic Astronomy",1967,134,3
+645,01-02-1994,"Henry Adams","Mont Saint Michael and Chartres",1904,359,5
+646,01-03-1994,"Emile Zola",Germinal,1885,538,1
+647,01-03-1994,"Charles Baudelaire","The Prose Poems and La Fanfarlo",1865,116,3
+648,01-04-1994,"Charles Dickens","The Old Curiosity Shop",1841,720,1
+649,01-04-1994,"Carrie Fisher","Delusions of Grandma",1994,260,3
+650,01-04-1994,"Laurence Sterne","A Sentimental Journey",1768,120,3
+651,01-05-1994,"Franz Kafka","The Trial",1920,256,2
+652,01-05-1994,"Thomas DeQuincy","Confessions of an English Opium Eater",1822,116,4
+653,01-05-1994,"Natalie Goldberg","Writing Down the Bones",1986,170,0
+654,01-05-1994,"Daniel Defoe","A Journal of the Plague Year",1725,256,0
+655,01-05-1994,"Jean Rhys","After Leaving Mr. Mackenzie",1931,191,0
+656,01-06-1994,"Marcel Proust","The Sweet Cheat Gone",1922,196,4
+657,01-06-1994,"Dorothy Whitelock","The Beginnings of English Society",1952,243,3
+658,01-07-1994,"David Rabe",""Hurlyburly"""",1985,160,5
+659,01-08-1994,"Henry Kissinger",Diplomacy,1994,835,1
+660,01-09-1994,"Bruce Chatwin","The Songlines",1987,294,5
+661,01-09-1994,"Gary Zukav","The Seat of the Soul",1989,248,2
+662,01-10-1994,"Ernest Becker","The Denial of Death",1973,285,3
+663,01-10-1994,"Laurence Sterne","The Life and Opinions of Tristam Shandy",1767,539,3
+664,01-10-1994,"Sinclair Lewis",Babbitt,1922,334,3
+665,01-12-1994,"John King Fairbank","China - A New History",1992,432,4
+666,01-12-1994,"Toni Morrison",Beloved,1987,275,4
+667,01-12-1994,"Franz Kafka",Amerika,1927,312,0
+668,01-12-1994,"Arnold Toynbee & Daisaku Ikeda","Choose Life",1976,359,5
+669,01-12-1994,"Sherwin B. Nuland","How We Die",1994,269,4
+670,01-12-1994,"H.B. Acton","Kant's Moral Philosophy",1970,65,5
+671,01-12-1994,"Jack London","The Call of the Wild",1903,89,4
+672,01-12-1994,"Gustav Janouch","Conversations with Kafka",1923,201,4
+673,01-01-1995,"Samuel Butler","The Way of All Flesh",1903,444,1
+674,01-02-1995,"Meriwether Lewis and William Clark","The Journals of Lewis and Clark",1804,515,0
+675,01-02-1995,"Peter Kwong","The New Chinatown",1987,187,5
+676,01-02-1995,"Fyodor Dostoyevsky","The Devils",1871,704,1
+677,01-03-1995,"Selma H. Fraiberg","The Magic Years",1959,151,4
+678,01-03-1995,"Sol M. Linowitz","The Making of a Public Man",1985,247,3
+679,01-04-1995,Stendhal,"The Red and the Black",1830,574,3
+680,01-04-1995,"J.H. Plumb","England in the Eighteenth Century",1950,214,5
+681,01-04-1995,"P.D. Ouspensky","The Psychology of Man's Possible Evolution",1934,128,4
+682,01-07-1995,"Carson McCullers","The Heart is a Lonely Hunter",1940,307,5
+683,01-07-1995,"Joyce Carol Oates","Black Water",1992,154,4
+684,01-07-1995,"editor, Eric L. McKitrick","Slavery Defended",1857,177,0
+685,01-07-1995,"Don, Jeanne Elium","Raising a Son",1992,172,5
+686,01-08-1995,"Patrick O'Brian","Master and Commander",1970,412,2
+687,01-09-1995,"Russell Banks","Continental Drift",1985,366,4
+688,01-09-1995,Vyasa,"The Bhagavad Gita",500bc,122,5
+689,01-10-1995,"Thomas More",Utopia,1516,147,3
+690,01-11-1995,"E.L. Doctorow",Ragtime,1975,371,3
+691,01-11-1995,"Martin Heidegger","Early Greek Thinking",1950,58,5
+692,01-11-1995,"Alice Miller","The Drama of the Gifted Child",1979,136,3
+693,01-12-1995,"Daniel Goleman","Emotional Intelligence",1995,292,3
+694,01-12-1995,"Benedict de Spinoza","The Ethics",1663,290,4
+695,01-12-1995,"Betty Radice","Who's Who in the Ancient World",1971,161,1
+696,01-12-1995,"Alexander Hamilton and James Madison","The Federalist Papers",1788,487,4
+697,01-01-1996,"Nathan Glazer and Daniel P. Moynihan","Beyond the Melting Pot",1963,408,5
+698,01-01-1996,"Louise Ames","Your Five-Year Old",1979,109,3
+699,01-01-1996,"Daniel Defoe","Robinson Crusoe",1719,314,0
+700,01-02-1996,"Abul A'La Mawdudi","Towards Understanding Islam",1986,132,5
+701,01-02-1996,"Stephen Crane","The Red Badge of Courage",1895,169,3
+702,01-02-1996,Various,"Latin Literature - an Anthology",400,456,1
+703,01-02-1996,"James Boswell","The Life of Samuel Johnson",1791,342,4
+704,01-03-1996,"Robert D. Kaplan","Balkan Ghosts",1993,300,2
+705,01-03-1996,anonymous,"Primary Colors",1996,366,5
+707,01-03-1996,"Russell Baker","Growing Up",1982,348,3
+708,01-03-1996,"Gustave Flaubert","Flaubert in Egypt",1850,222,2
+709,01-04-1996,"Robin, Liza, Linda, Tiffany","You'll Never Make Love in this Town Again",1996,251,4
+710,01-04-1996,"Robert Graves","I, Claudius",1934,468,0
+711,01-04-1996,"Stephen Birmingham",""Our Crowd"""",1967,446,5
+712,01-06-1996,"Peter I. Pressman and Yahsar Hirshaut","Breast Cancer",1992,265,5
+713,01-07-1996,"Lester C. Thurow","The Future of Capitalism",1996,327,1
+714,01-07-1996,"Honoré de Balzac","A Murky Business",1841,223,1
+715,01-07-1996,"Blaise Pascal",Pensées,1661,204,5
+716,01-08-1996,"Deepak Chopra","Quantum Healing",1989,273,3
+717,01-08-1996,"Maxim Gorky","My Childhood",1913,451,3
+718,01-08-1996,"Paul Theroux","Riding the Iron Rooster",1988,188,5
+719,01-08-1996,"René Descartes","Discourse on Method and The Meditations",1637,188,4
+720,01-08-1996,"Deborah Tannen","You Just Don't Understand",1990,298,2
+721,01-09-1996,"Pliny the Elder","Natural History",76,385,3
+722,01-09-1996,"James Clavell",Shogun,1975,1152,0
+723,01-10-1996,Xenophon,"Conversations with Socrates",401bc,359,3
+724,01-12-1996,"Michael Herr",Dispatches,1978,278,0
+725,01-12-1996,"H.G. Wells","The Invisible Man",1897,139,1
+726,01-01-1997,"David Baldacci","Absolute Power",1996,505,5
+727,01-03-1997,"Simone DeBeauvoir","The Second Sex",1952,732,4
+728,01-04-1997,"Henry Fielding, Daniel Defoe","Jonathan Wild",1743,290,3
+729,01-04-1997,"Mary Karr","The Liars' Club",1995,320,4
+730,01-04-1997,"Robin Dunbar","Grooming, Gossip, and the Evolution of Language",1996,230,3
+731,01-05-1997,"G.K. Chesterton","The Club of Queer Trades",1905,126,2
+732,01-05-1997,"Bryce Lyon","The Origins of the Middle Ages",1972,87,1
+733,01-05-1997,"Antoine de Saint Exupery","Night Flight",1932,87,3
+734,01-06-1997,"Charles and Mary Lamb","Tales from Shakespeare",1807,313,1
+735,01-06-1997,"Sir Thomas Malory","Le Morte D'Arthur, vol. 1 book I-VII",1485,327,1
+736,01-06-1997,"Alcoholics Anonymous","Twelve Steps and Twelve Traditions",1952,192,4
+737,01-07-1997,"Don DeLillo","Mao II",1991,241,2
+738,01-07-1997,"Jules Verne","Around the World in Eighty Days",1873,163,0
+739,01-08-1997,"Daniel Johan Goldhagen","Hitler's Willing Executioners",1996,466,5
+740,01-07-1997,"Peter Gay","The Enlightenment - The Science of Freedom",1969,568,2
+741,01-08-1997,"Harry Crews","A Feast of Snakes",1976,177,1
+742,01-09-1997,"Jean-Jacques Rousseau",Émile,1760,568,5
+743,01-09-1997,"Hermann Hesse","Narcissus and Goldmund",1930,312,5
+744,01-10-1997,"Aristotle, Horace","Classical Literary Criticism",10bc,80,0
+745,01-10-1997,"Ernest Hemingway","Fiesta, The Sun Also Rises",1927,206,2
+746,01-10-1997,"Keith B. Richburg","Cut of America",1997,254,1
+747,01-11-1997,"Lincoln Steffens","The Shame of the Cities",1904,222,1
+748,01-11-1997,"Choderlos DeLaclos","Les Liaisons Dangereuses",1782,412,2
+749,01-12-1997,"Jonathan Harr","A Civil Action",1995,496,2
+750,01-12-1997,"Harper Lee","To Kill a Mockingbird",1960,281,4
+751,01-12-1997,"David Denby","Great Books",1996,463,3
+752,01-01-1998,"Garrison Keillor","Lake Wobegon Days",1985,341,2
+753,01-01-1998,"Barry Miles","Paul McCartney - Many Years from Now",1997,617,2
+754,01-01-1998,Horace,"Satires and Epistles",18bc,179,1
+755,01-03-1998,"E. Annie Proulx","The Shipping News",1993,337,3
+756,01-03-1998,"Allan Bloom","The Closing of the American Mind",1987,382,1
+757,01-03-1998,"Niccolò Machiavelli","The Prince",1514,96,0
+758,01-04-1998,"Alexis De Tocqueville","Democracy in America",1835,317,0
+759,01-04-1998,"Frank McCourt","Angela's Ashes",1996,426,5
+760,01-04-1998,"Susanna Moore","my old sweetheart",1982,211,3
+761,01-04-1998,"Robert Hughes","Culture of Complaint",1993,204,5
+762,01-05-1998,"Patrick Suskind",Perfume,1985,263,1
+763,01-05-1998,"Victoria Kingston","Simon and Garfunkel - The Definitive Biography",1996,287,1
+764,01-05-1998,"John Locke","The Second Treatise of Government",1690,155,0
+765,01-05-1998,Plato,Phaedrus,375bc,48,0
+766,01-06-1998,"Charles Dickens","Barnaby Rudge",1841,766,2
+767,01-06-1998,"Philip Roth","Zuckerman Unbound",1981,156,5
+768,01-06-1998,"Jeffrey Archer","A Twist in the Tale - 4 short stories",1988,113,4
+769,01-07-1998,"S.T. Bindoff","Tudor England",1950,309,3
+770,01-07-1998,"John O'Hara","Appointment in Samarra",1934,240,1
+771,01-08-1998,"Ralph Ellison","Invisible Man",1952,469,1
+772,01-08-1998,"A.S. Byatt","The Matisse Stories",1993,128,5
+773,01-09-1998,"Giovanni Boccaccio","The Decameron",1350,296,0
+774,01-09-1998,"Edward W. Said","Representations of the Intellectual",1993,132,3
+775,01-09-1998,"Robert Graves","The Greek Myths: 1",1955,197,0
+776,01-09-1998,"Peter and Linda Murray","The Art of the Renaissance",1963,278,1
+777,01-09-1998,"Emmanuel Le Roy Ladurie","The Beggar and the Professor",1995,351,0
+778,01-10-1998,"Richard Causton","The Buddha in Daily Life",1988,294,5
+779,01-10-1998,"Mitch Albom","Tuesday with Morrie",1997,192,0
+780,01-11-1998,"D.H. Lawrence","Sons and Lovers",1913,484,4
+781,01-11-1998,"Alessandro Baricco",Silk,1997,91,1
+782,01-11-1998,"Morris Goldstein","The Asian Financial Crisis: Causes, Cures, and Systemic Implications",1998,67,0
+783,01-11-1998,"Jimmy Webb",Tunesmith,1998,423,1
+784,01-12-1998,"Henry James","The Golden Bowl",1904,555,0
+785,01-01-1999,"Jean Rhys",Quartet,1928,186,2
+786,01-01-1999,"Edward W. Said","Covering Islam","1,981",195,5
+787,01-01-1999,"Jorge Luis Borges","Other Inquisitions",1952,187,3
+788,01-01-1999,"Bill Gates","The Road Ahead",1996,322,5
+789,01-02-1999,"Arthur Golden","Memoirs of a Geisha",1997,428,0
+790,01-03-1999,"Frank R. Wilson","The Hand",1998,338,4
+791,01-04-1999,"Daniel DeFoe","A Tour Through the Whole Island of Great Britain",1724,708,4
+792,01-04-1999,"Russell Banks",Cloudsplitter,1998,758,2
+793,01-05-1999,"Robert Wright","The Moral Animal",1994,379,3
+794,01-05-1999,"P.G. Wodehouse","French Leave",1956,206,3
+795,01-06-1999,"Marcel Proust","The Past Recaptured",1922,272,3
+796,01-06-1999,"John Hersey",Hiroshima,1946,152,4
+797,01-06-1999,"John Stuart Mill","On Liberty",1859,187,5
+798,01-07-1999,"Philip Roth","American Pastoral",1997,423,4
+799,01-07-1999,"Dante Alighieri",Paridiso,1308,150,4
+800,01-07-1999,"Jacob A. Riis","How The Other Half Lives",1890,227,5
+801,01-08-1999,"Colin Bateman","Cycle of Violence",1995,261,4
+802,01-08-1999,"Fernand Braudel","The Identity of France",1985,375,0
+803,01-09-1999,"Sinclair Lewis","It Can't Happen Here",1935,331,4
+804,01-09-1999,"Jason Goodwin","Lords of the Horizons - A History of the Ottoman Empire",1998,332,4
+805,01-09-1999,"Marilyn Vos Savant","The World's Most Famous Math Problem",1993,76,0
+806,01-09-1999,"Fred Goodman","The Mansion on the Hill",1997,387,0
+807,01-10-1999,"Daisaku Ikeda","Toward a Culture of Peace: A Cosmic View",1999,38,2
+808,01-10-1999,"Dan Kindlon, Michael Thompson","Raising Cain",1999,267,5
+809,01-11-1999,"Dava Sobol",Longitude,1995,175,3
+810,01-11-1999,"Søren Kierkegaard","Fear and Trembling",1843,147,3
+811,01-12-1999,Sophocles,""Antigone"""",441bc,48,5
+812,01-12-1999,"Bernie Brillstein","Where Did I Go Right?",1999,375,0
+813,01-12-1999,"Richard Dawkins","The Selfish Gene",1976,266,0
+814,01-01-2000,"A.J.P. Taylor","The Struggle for Mastery in Europe - 1848 - 1918",1954,586,3
+815,01-01-2000,"Alfred Lansing","Endurance - Shackleton's Incredible Voyage",1959,280,2
+816,01-02-2000,Euripides,""Andromache"""",425bc,47,1
+817,01-03-2000,"Samuel Butler",Erewhon,1871,260,1
+818,01-03-2000,"George Stephanopoulos","All Too Human",1999,448,5
+819,01-04-2000,"Henry Fielding","Tom Jones",1749,822,1
+820,01-04-2000,"John Rechy","City of Night",1963,380,2
+821,01-05-2000,"Peter Gay","My German Question",1998,212,5
+822,01-05-2000,"Zora Neale Hurston","Their Eyes Were Watching God",1937,199,3
+823,01-05-2000,"Mark Twain","The Mysterious Stranger",1906,114,2
+824,01-05-2000,"Jhumpa Lahiri","Interpreter of Maladies",1999,198,0
+825,01-06-2000,"John Steinbeck","The Grapes of Wrath",1939,464,4
+826,01-06-2000,"Michael Lewis","The New New Thing",2000,272,0
+827,01-08-2000,"Jacques Barzun","From Dawn to Decadence",2000,802,3
+828,01-08-2000,"Samuel Butler","Alps & Sanctuaries",1881,336,5
+829,01-08-2000,"Alexander Dumas","The Three Musketeers",1844,592,4
+830,01-09-2000,"Samuel Eliot Morison","Christopher Columbus, Mariner",1942,160,3
+831,01-09-2000,"Madame de Lafayette","The Princess of Cleves",1677,288,0
+832,01-10-2000,"Tom Wolfe","A Man in Full",1998,742,1
+833,01-10-2000,"John Milton","Samson Agonistes ",1671,170,1
+834,01-10-2000,"George Kubler","The Shape of Time",1962,136,0
+835,01-11-2000,"Jakob Walter","The Diary of a Napoleonic Foot Soldier",1830,208,0
+836,01-11-2000,Stendhal,Love,1819,336,0
+837,01-12-2000,"Sir Harold Nicolson",Diplomacy,1939,151,4
+838,01-12-2000,"William Hazlitt","Liber Amoris ",1823,112,3
+839,01-12-2000,"Ida M. Tarbell","The History of the Standard Oil Company",1903,200,3
+840,01-01-2001,"Adolph Hitler","Mein Kampf ",1926,384,5
+841,01-01-2001,"Honore de Balzac","The Physiology of Marriage",1824,358,1
+842,01-01-2001,"Saul Bellow","Henderson the Rain King",1958,341,5
+843,01-01-2001,"Dorothy L. Sayers","The Mind of the Maker",1941,229,5
+844,01-02-2001,"Christine Hobson","The World of the Pharoahs",1987,255,5
+845,01-03-2001,"Horatio Alger, Jr.","Ragged Dick ",1868,120,5
+846,01-03-2001,"Henry Kissinger","A World Restored",1957,535,3
+847,01-04-2001,"Honore de Balzac","The Chouans ",1827,238,5
+848,01-04-2001,"Tom King","The Operator ",2000,690,4
+849,01-05-2001,"Lord Byron","The Selected Letters of Lord Byron",1798,276,5
+850,01-06-2001,"Jean-Jacques Rousseau","La Nouvelle Heloise",1758,728,0
+851,01-06-2001,"Walter Bagehot","Physics and Politics",1872,100,1
+852,01-07-2001,"Dan O'Brien","The Rites of Autumn",1988,192,5
+853,01-08-2001,"Michael E. Porter, Hirotaka Takeuchi, Mariko Sakakibara","Can Japan Compete?",2000,224,0
+854,01-08-2001,"Sarah Faunce",Courbet,1993,245,4
+855,01-09-2001,"Virginia Woolf","The Waves ",1931,297,0
+856,01-10-2001,"Peter Paret","Understanding War ",1992,252,5
+857,01-10-2001,"P. G. Wodehouse","Jeeves in the Morning",1946,272,5
+858,01-11-2001,"Theodore Dreiser","Sister Carrie ",1900,557,3
+859,01-12-2001,"Benjamin R. Barber","Jihad vs. McWorld",1995,432,5
+860,01-12-2001,"J.K. Rowling","Harry Potter and the Sorcerer's Stone",1997,223,4
+861,01-12-2001,"Stephen Hawking","The Universe in a Nutshell",2001,216,3
+862,01-12-2001,"Artie Shaw","The Trouble with Cinderella",1952,432,5
+863,01-01-2002,"Paramahansa Yogananda","Autobiography of a Yogi",1946,576,4
+864,01-02-2002,"Bernard Lewis","What Went Wrong?",2002,208,3
+865,01-03-2002,"Elizabeth Gaskell","Wives and Daughters",1866,679,2
+866,01-04-2002,"Upton Sinclair","The Jungle ",1905,413,0
+867,01-04-2002,"Eugene F. Rice, Jr.","The Foundations of Early Modern Europe, 1460-1569",1994,218,2
+868,01-04-2002,"Margaret A. Salinger","Dream Catcher ",2000,464,5
+869,01-06-2002,"Henry David Thoreau","Selected Journals of Henry David Thoreau",1862,64,0
+870,01-08-2002,"Jean Rhys","Sleep It Off Lady",1976,176,5
+871,01-08-2002,Plutarch,"Fall of the Roman Republic",90,414,2
+872,01-09-2002,"C.S. Forester","Hornblower and Hotspur",1962,400,5
+873,01-09-2002,"W.H. Lewis","The Splendid Century",1953,306,3
+874,01-09-2002,"Robert Hughes","The Fatal Shore",1986,688,1
+875,01-09-2002,"Noam Chomsky","Profit Over People",1999,166,0
+876,01-10-2002,"Henry George","Progress and Poverty",1879,598,3
+877,01-10-2002,"David Krieger, Daisaku Ikeda","Choose Hope ",2001,238,0
+878,01-11-2002,"Malcolm Lowry","Under the Volcano",1947,423,5
+879,01-12-2002,"Doris Lessing","The Good Terrorist",1985,400,5
+880,01-12-2002,"Viktor E. Frankl","Man's Search for Meaning",1959,165,5
+881,01-12-2002,"Harold Nicolson","Good Behavior",1955,409,3
+882,01-01-2003,"Lucien Febvr, Henri-Jean Martin","Good Behavior",1958,360,1
+883,01-02-2003,"Arthure Levitt","Take on the Street",2002,352,1
+884,01-02-2003,"Charles Bukowski","Post Office",1971,208,2
+885,01-03-2003,"Jose Saramago","The Cove ",2002,307,0
+886,01-04-2003,"Susan Mollin Okin","Women in Western Political Thought",1979,442,3
+887,01-04-2003,"DBC Pierre","Veron God Little",2003,288,5
+888,01-05-2003,"Mary Renault","The Persian Boy",1972,419,2
+889,01-05-2003,"Charles Bukowski",Hollywood,1989,319,0
+890,01-05-2003,"John Lowden","Early Christian & Byzantine Art",1997,448,2
+891,01-06-2003,"Natalie Angier","Woman - An Intimate Geography",1999,464,0
+892,01-07-2003,"Gregory Bishop of Tours","History of the Franks",584,720,2
+893,01-07-2003,"Paul Berman","Terror and Liberalism",2003,240,4
+894,01-07-2003,"Mary McCarthy","The Groves of Academe",1951,312,5
+895,01-07-2003,"Henry Kissinger","Does America Need a Foreign Policy",2001,352,0
+896,01-07-2003,"James Lord","A Giacometti Portrait",1965,128,4
+897,01-07-2003,"Karen Armstrong",Budda,2001,240,1
+898,01-08-2003,"Karen Armstrong",Islam,2000,230,2
+899,01-10-2003,"George Eliot","Adam Bede",1859,624,2
+900,01-11-2003,"Daisaku Ikeda, Majid Tehranian","Global Civilization - A Buddist Islanic Dialogue",2003,224,3
+901,01-11-2003,"Graham Greenauthor","The Third Man",1950,157,3
+902,01-01-2004,"Robert A. Caro","The Years of Lyndon Johnson - Master of the Senate",2002,1232,3
+903,01-01-2004,"Horace Mann","The Republic and the School",1848,112,4
+904,01-01-2004,"Edmund S. Morgan","Benjamin Franklin",2002,352,4
+905,01-02-2004,"Claude Mettra",Bruegel,1977,45,1
+906,01-02-2004,"J. M. Coetzee","Waiting for the Barbarians",1980,152,4
+907,01-02-2004,"Dan Brown","The Da Vinci Code",2003,489,1
+908,01-02-2004,"Gustave Flaubert","Memoirs of a Madman",1837,86,3
+910,01-03-2004,"Tacey Chevalier","Girl With a Pearl Earing",1999,233,5
+911,01-04-2004,"Harold Bloom","The Western Canon",1994,546,0
+912,01-05-2004,"Walter Pater","The Renaissance",1873,208,5
+913,01-05-2004,"William Pollack","Real Boys",1998,480,3
+914,01-05-2004,Aesop,"The Complete Fables",550bc,352,4
+915,01-06-2004,Juvenal,"The Satires",130,252,5
+916,01-06-2004,"Groucho Marx","Love Groucho",1955,272,2
+917,01-07-2004,"G.K. Chesterton","The Man Who Was Thursday",1908,182,4
+918,01-08-2004,"John Kennedy Toole","A Confederacy of Dunces",1963,394,3
+919,01-08-2004,"Harold Mattingly","Roman Imperial Civilization",1957,332,3
+920,01-08-2004,"Molly Hughes","A London Girl of the 1880's",1946,245,4
+921,01-09-2004,"Nick Hornby","How To Be Good",2001,305,0
+922,01-09-2004,"John Bunyan","The Pilgrim's Progress",1684,324,4
+923,01-09-2004,"Bill Moyers","Moyers on America",2004,256,5
+924,01-09-2004,"Walt Whitman","Specimen Days",1865,228,5
+925,01-09-2004,"Paulo Coelho","Eleven Minutes",2004,273,4
+926,01-10-2004,"John Boswell","Christianity, Social Torerance and Homosexuality",1980,424,5
+927,27-06-1905,"Lawrence Potter","The Persian Gulf in Transition ",1997,336,4
+928,27-06-1905,"Immanuel Kant","Perpetual Peace ",1795,160,5
+929,27-06-1905,"Bob Dylan","Chronicles, vol. 1 ",2004,320,3
+930,27-06-1905,"Arthur Koestler","The Gladiators ",1949,44,1
+931,27-06-1905,"Richard L. Bushman","From Puritan to Yankee ",1967,352,5
+932,27-06-1905,"Arnold Toynbee","A Study of History, vols I-VI ",1939,576,1
+933,27-06-1905,"Bill McKibben","The End of Nature ",1989,195,1
+934,27-06-1905,"Craig Unger","House of Bush, House of Saudi ",2004,384,3
+935,27-06-1905,"Tim LaHaye, Jerry B. Jenkins","Glorious Appearing ",2004,399,1
+936,27-06-1905,"Laurens Van der Post","A Story Like the Wind ",1972,384,1
+937,27-06-1905,"Marilynne Robinson",Gilead,2004,247,2
+938,27-06-1905,"Thomas Carlyle","The French Revolution ",1837,848,1
+939,27-06-1905,"Dalton Trumbo","Johnny Got His Gun",1939,309,0
+940,27-06-1905,"Claude-Anne Lopez","Mon Cher Papa, Franklin and the Ladies of Paris ",1966,404,3
+941,27-06-1905,"Maureen Dowd",Bushworld,2004,523,3
+942,27-06-1905,"Anton Chekhov","My Life ",1886,150,1
+943,27-06-1905,"J.R. Hale","Renaissance Europe ",1971,352,4
+944,27-06-1905,"E.M. Forster","A Passage to India ",1924,376,3
+945,27-06-1905,"Robert F. Kennedy, Jr.","Crimes Against Nature ",2004,288,0
+946,27-06-1905,"Jane Leavy","Sandy Koufax ",2003,336,1
+947,27-06-1905,"David McCullough",1776,2005,386,3
+948,01-07-2005,"Frank Norris","The Octopus ",1900,688,4
+949,01-07-2005,"Ann Rinaldi","Hang a Thousand Trees with Ribbons ",1996,352,0
+950,01-07-2005,"Herman Melville","Bartleby the Scrivener ",1853,64,4
+951,01-07-2005,Various,"Chapters in Western Civilization vol II ",1962,534,2
+952,01-08-2005,"Tim De Lisle","Lives of the Great Songs ",1994,240,0
+953,01-08-2005,"Laurence Bergreen","As Thousands Cheer - The Life of Irving Berlin ",1990,702,5
+954,01-09-2005,"Anthony Trollope","The Way We Live Now ",1873,776,0
+955,01-09-2005,"Steve Martin",Shopgirl,2000,130,4
+956,01-09-2005,"Emile Zola","The Debacle ",1870,170,3
+957,01-10-2005,"Kenneth Henshall","A History of Japan ",1999,264,4
+958,01-11-2005,"Edmund Morris","The Rise of Theodore Roosevelt ",1979,816,2
+959,01-11-2005,"Henry Adams","The Education of Henry Adams ",1907,320,5
+960,01-11-2005,"Sonny Barger","Freedom: Credos from the Road ",2005,224,4
+961,01-11-2006,"Nathanael West","The Day of the Locust ",1939,208,1
+962,01-11-2005,"Ford Maddox Ford","The Good Soldier ",1915,368,5
+963,01-11-2005,"Mary Wollstonecraft","A Vindication of the Rights of Woman ",1792,269,1
+964,01-12-2005,"Edith Wharton","The Age of Innocence ",1920,293,0
+965,01-01-2006,"W. Somerset Maugham","Of Human Bondage ",1915,684,0
+966,28-06-1905,"Doris Kearns Goodwin","Team of Rivals",2005,916,4
+967,28-06-1905,"Tony Judt",Postwar,2005,933,4
+968,28-06-1905,"Geoff Emerick","Here, There, and Everywhere ",2006,400,3
+969,28-06-1905,"Wallace Stegner","Angle of Repose ",1971,569,0
+970,28-06-1905,"David Dalton","James Dean, The Mutant King ",1974,384,2
+971,28-06-1905,"V.S. Naipaul","India: A Wounded Civilisation ",1976,176,5
+972,28-06-1905,"Carlo Collodi","The Adventures of Pinocchio ",1881,96,5
+973,28-06-1905,"D. H. Lawrence","Women in Love ",1916,416,4
+974,28-06-1905,"Henri Pirenne","Economic and Social History of Medieval Europe ",1936,264,2
+975,28-06-1905,"A. H. Maslow","The Farther Reaches of Human Nature ",1971,432,5
+976,28-06-1905,"Charles Dickens","Our Mutual Friend ",1865,801,0
+977,28-06-1905,"Vladimir Nabokov","Speak Memory ",1947,255,2
+978,28-06-1905,"Hermann Hesee","Steppenwolf ",1927,256,1
+979,01-09-2006,"David S. Brown","Richard Hofstadter. An Intellectual Biography",2006,320,5
+980,01-09-2006,"Robert Penn Warren","All the King's Men",1946,439,3
+981,01-09-2006,"Michel DeMontaigne","On Friendship",1580,115,3
+982,01-10-2006,"Danny Danzinger & John Gillingham","1215 The Year of Magna Carta",2003,312,1
+983,01-10-2006,"Jim Harrison","Legends of the Fall",1978,276,1
+984,01-11-2006,"Jared Diamond","Collapse - How Societies Choose to Fail Or Succeed",2005,608,5
+985,01-11-2006,"Fareed Zakaria","The Future of Freedom",2003,295,2
+986,01-11-2006,"J.P. Donleavy","The Ginger Man",1955,347,3
+987,01-11-2006,"John Irving","My Movie Business",1999,222,3
+988,01-12-2006,"William Shakespeare","All's Well That Ends Well",1602,282,3
+989,01-12-2006,"Graham Greene","The Quiet American",1955,180,2
+990,01-12-2006,"Quintus Curtius Rufus","The History of Alexander",44,352,0
+991,01-12-2006,"Oliver Wendell Holmes","The Autocrat of the Breakfast Table",1858,604,5
+992,01-01-2007,"Iris Murdoch","Jackson's Dilemma",1995,256,1
+993,01-02-2007,"Jonathan Franzen","The Corrections",2001,653,4
+994,29-06-1905,"George W.S. Trow","My Pilgrim's Progress",1999,288,2
+995,29-06-1905,"Heinrich Fichtenau","The Carolingian Empire",1957,196,5
+996,29-06-1905,"Jill Hamilton","God, Guns and Israel",2004,352,2
+997,29-06-1905,"Sir Thomas More","The History of King Richard III",1557,120,4
+998,29-06-1905,"Jean-Jacques Rousseau","The Confessions",1781,672,0
+999,29-06-1905,"Nathaniel Hawthorne","The Marble Faun",1860,432,0
+1000,29-06-1905,"Isaiah Berlin","Russian Thinkers",1978,336,0
+1001,29-06-1905,"Cecily von Ziegesar","Don't You Forget About Me",2007,275,4
+1002,29-06-1905,"Ian McEwan","On Chesil Beach",2007,166,3
+1003,29-06-1905,"Jonathan Lethem","Motherless Brooklyn",1999,311,3
+1004,29-06-1905,"Erich Fromm","The Essential Fromm",1976,144,2
+1005,29-06-1905,"José Saramago","The Gospel According to Jesus Christ",1991,377,3
+1006,29-06-1905,"Brigitte L. Nacos","Mass-Mediated Terrorism",2007,253,2
+1007,29-06-1905,"Joan Didion","The Year of Magical Thinking",2005,227,3
+1008,29-06-1905,"Samuel Beckett","Waiting for Godot",1954,109,1
+1009,29-06-1905,"Leonardo da Vinci",Prophecies,1519,112,5
+1010,29-06-1905,"Donald Capps","The Depleted Self",1993,196,1
+1011,29-06-1905,"Jean Rhys","Tigers are Better Looking",1927,220,3
+1012,29-06-1905,"Reinhold Niebuhr","Leaves from the Notebook of a Tamed Cynic",1928,152,3
+1013,29-06-1905,"John J. Jackson, Jr.",Harlemworld,2001,299,2
+1014,29-06-1905,"Edmund Burke","A Philosophical Enquiry into the Origin of our Ideas of the Sublime and Beautiful",1757,208,0
+1015,29-06-1905,"Octavio Paz","The Labyrinth of Solitude",1961,398,5
+1016,29-06-1905,"V.S. Naipaul","A Bend in the River",1979,326,2
+1017,29-06-1905,"Linda Lawrence Hunt","Bold Spirit- Helga Estby's Forgotten Walk Across Victorian America",2003,336,2
+1018,29-06-1905,"Fyodor Dostoevsky","The Gambler",1866,160,5
+1019,29-06-1905,"Aleksandr Solzhenitsyn","Nobel Lecture",1972,69,4
+1020,29-06-1905,"Kenneth Seeskin","Maimonides: A Guide for Today's Perplexed",1991,142,5
+1021,29-06-1905,"Booth Tarkington","The Magnificent Ambersons",1918,288,1
+1022,30-06-1905,"Jane Jacobs","The Death and Life of Great American Cities",1961,472,4
+1023,30-06-1905,"Al Gore","The Assault on Reason",2007,273,4
+1024,30-06-1905,"Raymond Carver",Fires,1984,208,5
+1025,30-06-1905,"Nassim Nicholas Taleb","The Black Swan",2007,366,5
+1026,30-06-1905,"Peter Forbath","The Last Hero",1988,729,4
+1027,30-06-1905,"Francis Bacon","The Essays",1625,288,0
+1028,30-06-1905,"Rose Tremain",Restoration,1989,371,2
+1029,30-06-1905,"Lord Macaulay","The History of England",1849,60,4
+1030,30-06-1905,"Marguerite Duras","The Lover",1985,117,0
+1031,30-06-1905,"Olivier Blanc","Last Letters - Prisons & Prisoners of the French Revolution 1793-94",1987,250,0
+1032,30-06-1905,"Thomas Hobbes","Human Nature",1640,344,3
+1033,30-06-1905,"John Perkins","Confessions of an Economic Hit Man",2004,303,3
+1034,30-06-1905,"Edward W. Said",Orientalism,1978,396,2
+1035,30-06-1905,"Rory Stewart","The Places in Between",2004,299,1
+1036,30-06-1905,"Evelyn Waugh","A Handful of Dust",1934,308,1
+1037,30-06-1905,"John Lewis Gaddis","The Cold War",2005,352,0
+1038,30-06-1905,"Muriel Spark","The Girls of Slender Means",1963,140,0
+1039,30-06-1905,"Vali Nasr","The Shia Revival",2006,314,5
+1040,30-06-1905,"John Lukacs","Blood, Toil, Tears and Sweat",2008,240,3
+1041,30-06-1905,"William Boyd",Restless,2006,336,3
+1042,30-06-1905,"Dennis McDouglas","Five Easy Decades",2008,484,0
+1043,30-06-1905,"Thomas Wolfe","Of Time and the River",1935,896,1
+1044,30-06-1905,"Simon Winchester","The Professor and the Madman",1998,242,3
+1045,30-06-1905,"Henry Roth","Call It Sleep",1934,462,1
+1046,30-06-1905,"Junot Diaz","The Brief Wondrous Life of Oscar Wao",2007,335,3
+1047,30-06-1905,"Andrew J. Bacevich","The Limits of Power",2008,206,4
+1048,30-06-1905,"Ken Kesey","Some Times a Great Notion",1964,640,0
+1049,30-06-1905,"D.H. Lawrence","Lady Chatterley's Lover",1928,376,4
+1050,30-06-1905,"Paul Tillich","The Courage to Be",1952,200,1
+1051,30-06-1905,"Samuel Beckett",Murphy,1938,288,1
+1052,30-06-1905,"Elizabeth Gaskell",Cranford,1853,257,1
+1053,30-06-1905,"Edmund White","Rimbaud - The Double Life of a Rebel",2008,192,3
+1054,30-06-1905,"Fernand Braudel","The Perspective of the World",1979,699,0
+1055,30-06-1905,"Elizabeth Bowen","The Death of the Heart",1938,418,3
+1056,01-01-2009,"Henri Troyat",Tolstoy,1965,896,1
+1057,01-01-2009,"Jimmy Carter","Palestine, Peace Not Apartheid",2006,288,2
+1058,01-02-2009,"Tom Shachtman","Skyscraper Dreams",1991,380,5
+1059,01-02-2009,"George Berkeley","Principles of Human Knowledge",1710,80,5
+1060,01-02-2009,"Walter Bagehot","The English Constitution",1867,256,0
+1061,01-03-2009,"Fareed Zakaria","The Post-American World",2008,292,5
+1062,01-04-2009,"Mikhail Sholokhov","And Quiet Flows the Don",1928,1408,2
+1063,01-04-2009,"Jonathan Weiner","The Beak of the Finch",1994,332,3
+1064,01-04-2009,"Lao Tzu","Hua Hu Ching",600bc,106,5
+1065,01-05-2009,"Ray Kurzweil","The Singularity Is Near",2005,652,3
+1066,01-05-2009,"Robert Louis Stevenson","Treasure Island",1883,311,1
+1067,01-05-2009,"Khaled Hosseini","The Kite Runner",2003,371,0
+1068,01-05-2009,"Amos Oz","Rhyming Life & Death",2007,128,3
+1069,01-06-2009,"W. Somerset Maugham","The Moon and Sixpence",1919,215,1
+1070,01-07-2009,Cicero,"On the Good Life",60bc,384,3
+1071,01-07-2009,"Zadie Smith","On Beauty",2005,445,0
+1072,01-07-2009,"Carrie Fisher","Wishful Drinking",2008,163,5
+1073,01-08-2009,"Charles Grodin","How I Got to Be Whoever It is I Am",2009,272,2
+1074,01-08-2009,"Edna O'Brien","Byron in Love",2009,228,5
+1075,01-08-2009,"Christopher Isherwood","The Last of Mr. Norris",1935,187,4
+1076,01-08-2009,"Christopher Isherwood","Goodbye to Berlin",1945,208,1
+1077,01-08-2009,"E.M. Forster","Alexandria - A History",1918,192,4
+1078,01-08-2009,"Samuel Richardson",Pamela,1740,592,3
+1079,01-09-2009,"John Cleland","Fanny Hill",1749,224,5
+1080,01-09-2009,"Daniel Defoe",Roxanna,1724,356,5
+1081,01-09-2009,"Giambattista Vico","New Science",1725,521,2
+1082,01-09-2009,"Nora Ephron","I Feel Bad About My Neck",2006,137,2
+1083,01-11-2009,"Jacob Burckhardt","The Civilization of the Renaissance in Italy",1857,400,4
+1084,01-10-2009,"Ivan Goncharov",Oblomov,1859,586,0
+1085,01-11-2009,"Adam Phillips","Darwin’s Worms",1999,160,0
+1086,01-11-2009,"D.A.F. Marquis deSade",Justine,1787,784,1
+1087,01-11-2009,"Raymond Postgate","Story of a Year 1848",1956,286,2
+1088,01-11-2009,"Oliver Goldsmith","Essays on Miscellaneous Subjects; with an Inquiry Into the Present State of Polite Learning",1774,180,0
+1089,01-11-2009,"Paul Ryscavage","Income InEquality in America",1999,242,0
+1090,01-12-2009,"Jack London","The SeaWolf",1903,227,2
+1091,01-12-2009,"Akira Iriye","The Origins of the Second World War in Asia and the Pacific",1987,214,2
+1092,01-12-2009,"Jacques Barzun","Race: A Study in Superstition",1937,100,3
+1093,01-12-2009,"George Orwell","Why I Write",1946,120,0
+1094,01-12-2009,"Jonathan Swift","A Collection of Genteel and Ingenious Conversation",1754,224,3
+1095,01-01-2010,"Andrew Ross Sorkin","Too Big To Fail",2009,600,3
+1096,01-01-2010,"Dashielle Hammett","Red Harvest",1929,224,4
+1097,01-02-2010,"Christopher Caldwell","Reflections on the Revolution in Europe",2009,432,3
+1098,01-02-2010,Polybius,"The Rise of the Roman Empire",130,576,0
+1099,01-03-2010,"Emile Zola","The Drinking Den",1877,480,5
+1100,01-03-2010,"Michael Howard","War in European History",1976,176,4
+1101,01-03-2010,"John Heileman, Mark Halperin","Game Change",2010,448,3
+1102,01-03-2010,"W.Somerset Maughan","Cakes and Ale",1930,308,2
+1103,01-03-2010,Sophocles,"Oedipus at Colonus",410bc,144,4
+1104,01-03-2010,"Jules Feiffer","Backing Into Forward",2011,440,2
+1105,01-04-2010,"Hermann Hesse","The Journey to the East",1959,128,3
+1106,01-04-2010,"Richard Wright","Native Son",1940,504,4
+1107,01-05-2010,"James Moore",Gurdjieff,1991,416,3
+1108,01-06-2010,"Gregory David Roberts",Shantaram,2003,936,3
+1109,01-06-2010,"David A. Andelman","A Shattered Peace",2008,336,3
+1110,01-06-2010,"Stieg Larsson","The Girl With The Dragon Tattoo",2004,480,1
+1111,01-06-2010,"Billy Collins","Sailing Alone Around The Room",1998,172,0
+1112,01-07-2010,"Charlotte Joko Beck","Nothing Special",1993,278,1
+1113,01-07-2010,"Paulo Coelho","The Alchemist",1988,192,5
+1114,01-07-2010,"Wilkie Collins","The Woman in White",1860,672,4
+1115,01-08-2010,"Kathryn Stockett","The Help",2009,464,3
+1116,01-09-2010,"Ron Chernow","The House of Morgan",1990,812,5
+1117,01-10-2010,"Doug Glanville","The Game From Where I Stand",2010,276,0
+1118,01-10-2010,"Norman Doidge, M.D.","The Brain That Changes Itself",2007,447,5
+1119,01-11-2010,"Louis D. Brandeis","Other People’s Money and How Bankers Use It",1913,168,0
+1120,01-11-2010,"Jonathan Franzen","How To Be Alone",2002,306,5
+1121,01-11-2010,"Ravi Ravindra","Heart Without Measure",1999,219,1
+1122,01-12-2010,"Agatha Christie","Murder On The Orient Express",1934,274,1
+1123,01-12-2010,"Wilkie Collins","Rambles Beyond Railways",1852,195,3
+1124,01-01-2011,"Martin Cruz Smith","Gorky Park",1981,433,4
+1125,01-02-2011,"James Miller","Examined Lives",2011,432,0
+1126,01-02-2011,"Thomas Mann","Doctor Faustus",1947,535,4
+1127,01-02-2011,"Luigi Pirandello","One, No One & One Hundred Thousand",1926,160,5
+1128,01-03-2011,"Roderick Frazier Nash","Wilderness & The American Mind",1967,432,3
+1129,01-03-2011,"Sinclair Lewis","Main Street",1920,560,4
+1130,01-04-2011,"John Muir","A Thousand-Mile Walk to The Gulf",1867,272,5
+1131,01-04-2011,"Brian Thomas Swimme & Mary Evelyn Tucker","Journey of the Universe",2011,192,0
+1132,01-04-2011,"Robert Mighall","Poetic Lives: Keats",2009,160,3
+1133,01-04-2011,"David Edwards","John Keats A Beginner’s Guide",2002,87,0
+1134,01-04-2011,"Victor Bockris","Keith Richards The Biography",2003,471,1
+1135,01-05-2011,"Daniel Defoe","Moll Flanders",1722,339,3
+1136,01-05-2011,"Michael Soussan","Backstabbing For Beginners",2008,332,5
+1137,01-05-2011,"Friedrich Nietzsche","Beyond Good and Evil",1886,240,4
+1138,01-06-2011,"Willa Cather","The Song of The Lark",1915,417,2
+1139,01-06-2011,"Honore de Balzac","The Vendetta",1830,124,5
+1140,01-06-2011,"Sara Maitland","A Book of Silence",2008,309,5
+1141,01-07-2011,Stendhal,"Memoirs of An Egotist",1832,144,2
+1142,01-07-2011,"Hugh Trevor-Roper","History and The Enlightenment",2010,352,5
+1143,01-07-2011,"Emile Zola","For a Night of Love, Nantas, Fasting",1876,100,3
+1144,01-08-2011,"Yann Martel","Life of Pi",2001,401,1
+1145,01-08-2011,"Don Piper with Cecil Murphy","Ninety Minutes in Heaven",2004,207,1
+1146,01-09-2011,"Sandro Veronesi","Quiet Chaos",2005,432,3
+1147,01-09-2011,"Charles Dickens","Sketches By Boz",1836,635,1
+1148,01-10-2011,"Noel Coward","Present Indicative: An Autobiography",1937,352,4
+1149,01-10-2011,"David Browne","Fire and Rain",2011,369,3
+1150,01-11-2011,"Niobe Way","Deep Secrets",2011,326,0
+1151,01-11-2011,"Vladmir Nabokov",Pnin,1953,143,2
+1152,01-12-2011,"Erik Larson","In The Garden Of Beasts",2011,448,5
+1153,01-12-2011,"Elie Wiesel",Night,1958,115,1
+1154,01-01-2012,"Sanford D. Greenberg","Even This",1953,100,3
+1155,01-01-2012,"Nikolai Gogol","The Garden Squabble",1835,119,2
+1156,01-02-2012,"Albert Goldman, Lawrence Schiller","Ladies and Gentlemen: Lenny Bruce!",1971,700,2
+1157,01-03-2012,"Muriel Barbery","The Elegance of the Hedgehog",2006,325,4
+1158,01-03-2012,"Scotty Bowers","Full Service",2012,288,5
+1159,01-03-2012,"Laura Hillenbrand",Unbroken,2010,492,2
+1160,01-04-2012,"Emile Zola",Nana,1880,473,0
+1161,01-04-2012,"Julie Otsuka","The Buddha in the Attic",2011,129,2
+1162,01-04-2012,"Timothy L. Hoffmann","Gone for a Ride",2007,100,1
+1163,01-06-2012,"E.L. James","Fifty Shades of Grey",2011,356,5
+1164,01-06-2012,"Vladimir Nabokov","Pale Fire",1959,246,5
+1165,01-07-2012,"Benjamin Grahanm, Jason Zweig","The Intelligent Investor",2003,623,1
+1166,01-07-2012,"P.G. Wodehouse","Uncle Fred in the Springtime",1939,240,4
+1167,01-07-2012,"Julie Rugg, Linda Murphy","A Book Addict's Treasury",2006,240,3
+1168,01-07-2012,"Graham Greene","The Heart of the Matter",1948,272,3
+1169,01-07-2012,"Johann Wolfgang von Goethe","The Man of Fifty",1818,70,1
+1170,01-08-2012,"Roger Collins","Early Medieval Europe 300-1000",1991,533,0
+1171,01-08-2012,"Tom Wolfe","I Am Charlotte Simmons",2004,738,4
+1172,01-09-2012,"Malcolm Gladwell",blink,2005,400,1
+1173,01-09-2012,"Saul Bellow","Seize the Day",1956,114,3
+1174,01-09-2012,"Lee Hausner","Children of Paradise",1990,275,4
+1175,01-11-2012,"William Carlos Williams","In the American Grain",1925,234,0
+1176,01-11-2012,"Michael Shaara","The Killer Angels",1974,13,2
+1177,01-11-2012,"Elisabeth Tova Bailey","The Sound of a Wild Snail Eating",2010,208,4
+1178,01-12-2012,"Henry Kissinger","On China",2011,608,3
+1179,01-12-2012,"George Eliot","Felix Holt: The Radical",1866,545,4
+1180,01-02-2013,"William Manchester","Winston Spencer Churchill The Last Lion Part 2 - Alone. 1932-40",1988,992,5
+1181,01-02-2013,"Robert D. Kaplan","The Revenge of Geography",2012,432,4
+1182,01-03-2013,"Mario Puzo","The Fortunate Pilgrim",1964,304,4
+1183,01-03-2013,"Nancy Mitford","Voltaire in Love",1957,288,0
+1184,01-03-2013,"David Barash","Revolutionary Biology - The New Gene- Centered View of Life",2001,222,0
+1185,01-04-2013,"Robert K Massie","Catherine the Great",2011,625,5
+1186,01-04-2013,"Elizabeth Bowen","The House in Paris",1935,269,1
+1187,01-05-2013,"Mason Currey","Daily Rituals - How Artists Work",2013,278,1
+1188,01-06-2013,"Emil Ludwig","Genius and Character",1927,346,1
+1189,01-07-2013,"Phillippe Burrin","France Under the Germans",1995,512,3
+1190,01-08-2013,"Bruno Schulz","The Street of Crocodiles",1934,160,0
+1191,01-08-2013,"Donald Shepherd","Bing Crosby - The Hollow Man",1981,150,0
+1192,01-09-2013,"Barbara W. Tuchman","A Distant Mirror",1978,714,5
+1193,01-10-2013,"Witold Gombrowicz",Cosmos,1967,208,5
+1194,01-11-2013,"Charles C. Mann",1493,2011,557,5
+1195,01-11-2013,"Philip K. Dick","Do Androids Dream of Eletric Sheep?",1968,258,2
+1196,01-12-2013,"Marianne Williamson","The Law of Divine Compensation",2012,208,2
+1197,01-02-2014,"Margaret Macmillan","The War That Ended Peace",2013,739,3
+1198,01-02-2014,"Herman Melville","Benito Cereno",1855,160,0
+1199,01-02-2014,"Anton Chekhov","The Duel",1891,128,5
+1200,01-03-2014,"Don DeLillo",Cosmopolis,2003,224,3
+1201,01-05-2014,"Victoria Wilson","A Life of Barbara Stanwyck",2013,1044,1
+1202,01-06-2014,"Julie Orringer","The Invisible Bridge",2010,786,0
+1203,01-07-2014,"Jonathan Lethem","Dissident Gardens",2013,366,3
+1204,01-08-2014,"Ernst Fischer, Carol Lipson","Thinking About Science:Max Delbruck & the Origins of Molecular Biology",1988,334,3
+1205,01-08-2014,"Marilynne Robinson","When I Was A Child I Read Books",2012,224,0
+1206,01-08-2014,"Alice Munro","Dear Life",2012,336,4
+1207,01-09-2014,"Louisa May Alcott","Little Women",1868,449,2
+1208,01-09-2014,"J.L. Carr","A Month in the Country",1980,135,2
+1209,01-10-2014,"Henry Kissinger","World Order",2014,420,3
+1210,01-11-2014,"James Fenimore Cooper","The Deerslayer",1841,576,0
+1211,01-12-2014,"Leo Tolstoy","The Kingdom of God is Within You",1893,352,3
+1212,01-01-2015,"Edmund Wilson","The Fifties",1986,663,1
+1213,01-01-2015,"Anjelica Huston","Watch Me",2014,400,3
+1214,01-02-2015,"Phil Klayn",Redeployment,2014,288,1
+1215,01-03-2015,"Ivan Turgenev","Virgin Soil",1877,355,5
+1216,01-06-2015,"Karl Ove Knausgaard","My Struggle",2009,448,3
+1217,01-06-2015,"Patrick Leigh Fermor","A Time of Gifts",1977,321,0
+1218,01-07-2015,"Randall Jarrell","Pictures From An Institution",1952,286,3
+1219,01-07-2015,"Howard Felperin","In Another Life",2014,225,1
+1220,01-07-2015,"Thomas Beer","The Mauve Decade",1926,272,1
+1221,01-09-2015,"Charles Dickens","Little Dorrit",1857,1347,5
+1222,01-11-2015,"Judith Viorst","Grown-Up Marriage",2003,304,0
+1223,01-11-2015,"Ron Chernov","Alexander Hamilton",2004,818,2
+1224,01-11-2015,"Jeff Fromm","Marketing to Millennials",2013,224,4
+1225,01-12-2015,"James Gavin","Deep in a Dream. The Long Night of Chet Baker",2002,448,3
+1226,01-12-2015,"Honore de Balzac","The Wrong Side of Paris",1845,272,3
+1227,01-01-2016,"Steve Silberman","NeuroTribes.The Legacy of Autism",2016,477,4
+1228,01-01-2016,"Honore de Balzac","The Human Comedy",1840,428,3
+1229,01-01-2016,"Buzz Bissinger","Three Nights in August",2005,287,5
+1230,01-02-2016,"Kostya Kennedy","Pete Rose. An American Dilemma",2016,352,4
+1231,01-03-2016,"Michael Lewis",Moneyball,2003,317,2
+1232,01-04-2016,"Jonathan Franzen",Freedom,2010,562,2
+1233,01-05-2016,"Morris Dickstein","Why Not Say What Happened",2015,320,3
+1234,01-05-2016,"Stepen Greenblatt","The Swerve",2011,356,3
+1235,01-06-2016,"William Shakespeare","The Tempest",1611,355,1
+1236,01-06-2016,"Bill Read","The Days of Dylan Thomas",1964,100,1
+1237,01-07-2016,"R.D. Blackmore","Lorna Doone",1869,800,4
+1238,01-07-2016,"Albert Schweitzer","J.S. Bach vol.two.",1911,512,2
+1239,01-08-2016,"Madeline Levine","The Prince of Privilege",2006,256,3
+1240,01-08-2016,"Hilton Als","White Girls",2014,344,4
+1241,01-09-2016,"Barbara Tuchman","The Guns of August",2014,606,2
+1242,01-10-2016,"Mary Karr","The Art of Memoir",2015,225,5
+1243,01-10-2016,"Flannery O'Connor","Everything That Rises Must Converge",1965,269,2
+1244,01-11-2016,"Isaac Bashevis Singer","A Crown of Feathers",1973,342,2
+1245,01-11-2016,"Robert Gottlieb","Avid Reader",2016,352,0
+1246,01-12-2016,"Rabbi Shalom Arush","The Garden of Peace",2008,150,5
+1247,01-01-2017,"Erik Larson","The Devil in the White City",2003,447,0
+1248,01-02-2017,"Paula Hawkins","The Girl on the Train",2015,325,0
+1249,01-03-2017,"Oliver Sacks","The Last Interview",2016,220,4
+1250,01-03-2017,"Charles Nordhoff, James Norman Hall","Mutiny On the Bounty",1932,400,5
+1251,01-03-2017,"John Sutherland","A Little History Of Literature",2013,276,4
+1252,01-04-2017,"Frances Kroll Ring","Against The Current",1985,155,3
+1253,01-04-2017,"James Baldwin","Giovanni's Room",1956,159,2
+1254,01-04-2017,"Jimmy Webb","The Cake And The Rain",2017,159,1
+1255,01-04-2017,"J.D. Salinger","The Last Interview",2016,208,2
+1256,01-04-2017,"Timothy Snyder","On Tyranny",2017,126,2
+1257,01-06-2017,"Donald Trump","Trump The Art of the Deal",1986,384,1
+1258,01-06-2017,"Joseph J. Ellis","American Sphinx: The Character Of Thomas Jefferson",1996,440,2
+1259,01-06-2017,"James Baldwin","The Fire Next Time",1962,106,4
+1260,01-07-2017,"John Julius Norwich","Four Princes",2016,304,3
+1261,01-08-2017,"Lisa Hilton",Elizabeth,2014,400,4
+1262,01-08-2017,"Erich Maria Remarque","All Quiet On The Western Front",1928,256,0
+1263,01-09-2017,"Friedrich Nietzsche",Anti-Education,1872,160,3
+1264,01-09-2017,"Al Franken","Giant Of The Senate",2017,304,3
+1265,01-10-2017,"Elena Ferrante","The Days Of Abandonment",2002,188,1
+1266,01-10-2017,"Fyodor Dostoyevsky","Netochka Nezvanova",1849,176,4
+1267,01-12-2017,"Franz Kafka",Konundrum,1914,381,3
+1268,01-12-2017,"Elizabeth Strout","My Name Is Lucy Barton",2016,193,4
+1269,01-12-2017,Cicero,"How To Grow Old",44bc,196,4
+1270,01-01-2018,"Domenico Starnone",Ties,2014,150,4
+1271,01-02-2018,"Michael Wolff","Fire and Fury",2018,322,1
+1272,01-05-2018,"Craig Pittman","Oh Florida!",2016,320,4
+1273,01-06-2018,"Madeleine Albright","Facism - a warning",2018,304,5
+1274,01-06-2018,"Adele Faber & Elaine Mazlish","How to Talk So Kids Will Listen & How to Listen So Kids Will Talk",1980,286,1
+1275,01-06-2018,"John Steinbeck","Of Mice and Men",1937,103,2
+1276,01-06-2018,"Julian Barnes","The Sense of an Ending",2011,150,5
+1277,01-07-2018,"Robert Hilburn","Paul Simon, The Life",2018,448,2
+1278,01-08-2018,"J. Edgar Hoover","Masters of Deceit",1958,384,3
+1279,01-08-2018,"Gabriel Garcia Marquez","The Story of a Shipwrecked Sailor",1986,128,4
+1280,10-07-1905,"Peter Catapano","Modern Ethics in 77 Arguments",2017,464,2
+1281,10-07-1905,"Ruth Bader Ginsburg","In Her Own Words",2018,206,4
+1282,10-07-1905,"Bob Woodward",Fear,2013,448,0
+1283,10-07-1905,"Ayn Rand","The Fountainhead",1943,752,0
+1284,10-07-1905,"Robert Parker","The Widening Gyre",1983,183,0
+1285,10-07-1905,"Anthony Doerr","All the Light We Cannot See",2014,531,3
+1286,10-07-1905,"Alan Jacobs","How to Think",2017,160,1
+1287,11-07-1905,"Cormac McCarthy","The Road",2006,241,2
+1288,11-07-1905,"Bill O'Reilly","Killing the SS",2018,307,2
+1289,11-07-1905,"Stephen Kinzer","The True Flag",2017,307,1
+1290,11-07-1905,"Marianne Williamson","Healing the Soul of America",1997,288,1
+1291,11-07-1905,"Eric Kandel","The Disordered Mind",2018,304,0
+1292,11-07-1905,"Bill Bryson","A Walk in the Woods",1981,397,4
+1293,11-07-1905,"Naomi Klein","No Is Not Enough",2017,273,4
+1294,11-07-1905,"Paul Collins","Duel With The Devil",2013,304,2
+1295,11-07-1905,"Cliff Sims","Team of Vipers",2019,384,5
+1296,11-07-1905,"Jim Mattis, Bing West","Call Sign Chaos",2019,320,5
+1297,11-07-1905,"Margaret Attwood","The Handmaid's Tale",1986,350,1
+1298,11-07-1905,"Gelett Burgess","Have You an Educated Heart",1923,57,3
+1299,12-07-1905,"David Talbot","The Devil’s Chessboard, Allen Dulles, the CIA and the Rise of America’s Secret Government",2015,704,5
+1300,12-07-1905,"Erik Larson","The Splendid and the Vile",2020,546,3
+1301,12-07-1905,"Viktor E. Frankl","Yes to Life",2019,144,5
+1302,12-07-1905,"Sanford D. Greenberg","Hello Darkness, My Old Friend",2020,240,2
+1303,12-07-1905,"Mary L. Trump","Too Much and Never Enough",2020,236,1
+1304,12-07-1905,"Doris Kearns Goodwin",Leadership,2020,397,5
+1305,12-07-1905,"David Mikie","Stanley Kubrick",2020,248,3
+1306,12-07-1905,"Julie Satow","The Plaza",2019,358,4
+1307,12-07-1905,"Ash Carter and Sam Kashner","Life Isn’t Everything – Mike Nichols as Remembered by 150 of His Closest Friends ",2019,368,2
+1308,13-07-1905,"Ruth Ben-Ghiat","Strongmen (Mussolini to the Present) ",2019,384,5
+1309,01-07-2021,"Mark Harris","Mike Nichols A Life",2021,688,0
+1310,01-08-2021,"David S. Brown","The Last American Aristocrat ",2020,464,4
+1311,01-09-2021,P.G.Wodehouse,"Jeeves and the Feudal Sprit ",1954,231,3
+1312,01-09-2021,"Margaret MacMillan","Paris ",1919,624,3
+1313,01-09-2021,"Charles Terry","The Music of Bach ",1963,100,5
+1314,01-10-2021,"Bernard Shaw","Pygmalion ",1913,82,2
+1315,01-10-2021,"Jo Giese","Never Sit if You Can Dance ",2019,144,2
+1316,01-10-2021,"Bob Woodward, Robert Costa","Peril ",2021,512,4
+1317,01-12-2021,"Amor Towles","A Gentleman in Moscow ",2016,462,0
+1318,01-12-2021,"Mel Brooks","All About Me! ",2021,480,3
+1319,01-01-2022,"James Michener","Caravans ",1963,320,4
+1320,01-01-2022,"Abraham Lincoln","The Spiritual Growth of a Public Man ",1973,47,2
+1321,01-02-2022,"Joe Scarborough","Saving Freedom ",2020,272,2
