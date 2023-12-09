@@ -1,0 +1,111 @@
+SELECT * FROM library_system.book_review_system;
+#1
+SELECT COUNT(*) AS Total_Reviews
+FROM book_review_system;
+#2
+SELECT AVG(Rating) AS Average_Rating
+FROM book_review_system;
+#3
+SELECT *
+FROM book_review_system
+ORDER BY Rating DESC
+LIMIT 5;
+#4
+SELECT Year_Published, COUNT(*) AS Books_Count
+FROM book_review_system
+GROUP BY Year_Published;
+#5
+SELECT Author_of_book, AVG(Rating) AS Avg_Rating
+FROM book_review_system
+GROUP BY Author_of_book
+ORDER BY Avg_Rating DESC
+LIMIT 5;
+#6
+SELECT *
+FROM book_review_system
+WHERE Rating = (
+				SELECT MAX(Rating) FROM book_review_system
+                );
+#7                
+SELECT *
+FROM book_review_system
+WHERE Rating = (
+				SELECT MIN(Rating) FROM book_review_system
+				);
+#8
+SELECT *
+FROM book_review_system
+WHERE Rating IS NULL;
+#9
+SELECT *
+FROM book_review_system
+WHERE No_of_pages = (
+					  SELECT MAX(No_of_pages) FROM book_review_system
+                      );
+ #10                     
+SELECT Author_of_book, COUNT(*) AS Books_Count
+FROM book_review_system
+GROUP BY Author_of_book
+HAVING COUNT(*) > 1;
+#11
+SELECT *
+FROM book_review_system
+WHERE Rating > 4.5;
+#12
+SELECT Author_of_book, COUNT(*) AS Reviews_Count
+FROM book_review_system
+GROUP BY Author_of_book;
+#13
+SELECT *
+FROM book_review_system
+ORDER BY No_of_pages DESC
+LIMIT 5;
+#14
+SELECT *
+FROM book_review_system
+WHERE Date_of_Read >= DATE_SUB(CURDATE(), INTERVAL 1 MONTH);
+#15
+SELECT Author_of_book, SUM(Rating) AS Popularity_Score
+FROM book_review_system
+GROUP BY Author_of_book
+ORDER BY Popularity_Score DESC
+LIMIT 5;
+#16
+SELECT Name_of_book, COUNT(*) AS Review_Count
+FROM book_review_system
+GROUP BY Name_of_book
+ORDER BY Review_Count DESC
+LIMIT 5;
+
+#17
+SELECT Year_Published, AVG(Rating) AS Avg_Rating
+FROM book_review_system
+GROUP BY Year_Published
+ORDER BY Year_Published;
+#18
+SELECT Rating, COUNT(*) AS Rating_Count
+FROM book_review_system
+GROUP BY Rating
+ORDER BY Rating;
+#19
+SELECT *
+FROM book_review_system
+WHERE Rating > 4.0 AND No_of_pages > 300;
+#20
+SELECT Author_of_book, MAX(Rating) - MIN(Rating) AS Rating_Range
+FROM book_review_system
+GROUP BY Author_of_book
+ORDER BY Rating_Range DESC
+LIMIT 5;
+#21
+SELECT Author_of_book, COUNT(*) AS Review_Count
+FROM book_review_system
+GROUP BY Author_of_book
+ORDER BY Review_Count DESC
+LIMIT 5;
+
+
+
+
+
+
